@@ -1,0 +1,1875 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FichierPenelop xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:dsf="http://penelop.org" version_penelop="1" build_penelop="017" build_donnees_references="002" date_creation="20190414" expediteur="#NORTIA" flag_option_hierarchie_recursive="NON">
+  <donnee_reguliere>
+    <destinataire ref_ID_intermediaire="2" date_debut_historique_fichier="2019-04-14" date_fin_historique_fichier="2019-04-14">
+      <personnes>
+        <personne ID_personne="0010O00002JrNJjQAN" nom_patronymique="REYNIER" prenoms="Solange" code_civilite="MME" />
+        <personne ID_personne="0010O00002AR4hJQAT" nom_patronymique="BRICE" prenoms="Francoise" code_civilite="MME" />
+        <personne ID_personne="0010O00002AR2XcQAL" nom_patronymique="DERVILLE" prenoms="Marie-Therese" code_civilite="MME" />
+        <personne ID_personne="0010O00002AR3pgQAD" nom_patronymique="PLANQUART" prenoms="Bernadette" code_civilite="MME" />
+        <personne ID_personne="0010O00002AR3rvQAD" nom_patronymique="MOREAU-STEFANI" prenoms="Thomas" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR3idQAD" nom_patronymique="LANDAIS" prenoms="Genevieve" code_civilite="MME" />
+        <personne ID_personne="00120000019OyB4AAK" nom_patronymique="SOUBIELLE" prenoms="Philippe" code_civilite="MON" />
+        <personne ID_personne="0010O00002HOom6QAD" nom_patronymique="ROBIN" prenoms="CLAUDE" code_civilite="MON" />
+        <personne ID_personne="0010O00002HOlbHQAT" nom_patronymique="HOUSSIN" prenoms="ALAIN" code_civilite="MON" />
+        <personne ID_personne="0010O00002HOlbIQAT" nom_patronymique="HOUSSIN" prenoms="ADRIEN" code_civilite="MON" />
+        <personne ID_personne="0010O00002HOlbKQAT" nom_patronymique="HOUSSIN" prenoms="ALEXANDRE" code_civilite="MON" />
+        <personne ID_personne="0010O00002HOlbJQAT" nom_patronymique="HOUSSIN" prenoms="ALAIN" code_civilite="MON" />
+        <personne ID_personne="0010O00002HOlbMQAT" nom_patronymique="HOUSSIN" prenoms="CHARLOTTE" code_civilite="MME" />
+        <personne ID_personne="0010O00002HOlbLQAT" nom_patronymique="HOUSSIN" prenoms="ALAIN" code_civilite="MON" />
+        <personne ID_personne="0010O00002HOoioQAD" nom_patronymique="CHIOLERIO" prenoms="GIANCARLO" code_civilite="MON" />
+        <personne ID_personne="0010O00002HOlWTQA1" nom_patronymique="LOMBARD" prenoms="ANNIE" code_civilite="MME" />
+        <personne ID_personne="0010O00002HOlUgQAL" nom_patronymique="CHAUVEAU" prenoms="CLAUDETTE" code_civilite="MME" />
+        <personne ID_personne="0010O00002AR2yUQAT" nom_patronymique="PRATX" prenoms="Marie-Paule" code_civilite="MME" />
+        <personne ID_personne="0010O00002AR2HkQAL" nom_patronymique="BRUN" prenoms="Michel" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR2l7QAD" nom_patronymique="LEGRAND" prenoms="Eliane" code_civilite="MME" />
+        <personne ID_personne="0010O00002HOp2UQAT" nom_patronymique="SOMPA MAZABA" prenoms="ANTHONY" code_civilite="MON" />
+        <personne ID_personne="0010O00002HOp2TQAT" nom_patronymique="SOMPA MAZABA" prenoms="ALEXIS" code_civilite="MON" />
+        <personne ID_personne="0010O00002HOlbOQAT" nom_patronymique="HOUSSIN" prenoms="CLEMENT" code_civilite="MON" />
+        <personne ID_personne="0010O00002HOlbNQAT" nom_patronymique="HOUSSIN" prenoms="ALAIN" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR2gjQAD" nom_patronymique="HASSANALY" prenoms="Mira" code_civilite="MME" />
+        <personne ID_personne="0010O00002AR2ZAQA1" nom_patronymique="ESTENE" prenoms="Frederic" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR2a8QAD" nom_patronymique="FENDORF" prenoms="Bertrand" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR2UfQAL" nom_patronymique="DAVID" prenoms="Jean-Marie" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR2ghQAD" nom_patronymique="HOCQUAUX" prenoms="Helene" code_civilite="MME" />
+        <personne ID_personne="0010O00002AR2HvQAL" nom_patronymique="BUZON" prenoms="Bruno" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR2xbQAD" nom_patronymique="OUDOT" prenoms="Genevieve" code_civilite="MME" />
+        <personne ID_personne="0010O00002AR2QGQA1" nom_patronymique="CHAIZE" prenoms="Pierre" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR2IMQA1" nom_patronymique="BOURGOIN" prenoms="Sylvie" code_civilite="MME" />
+        <personne ID_personne="0010O00002AR2gkQAD" nom_patronymique="HOUSSIN" prenoms="Didier" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR2UgQAL" nom_patronymique="DUMAGENC" prenoms="Jean-Pierre" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR1yaQAD" nom_patronymique="GIGOUT" prenoms="Pierre" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR1ybQAD" nom_patronymique="GIGOUT" prenoms="Viviane" code_civilite="MME" />
+        <personne ID_personne="0010O00002AR2EcQAL" nom_patronymique="AMIAND" prenoms="Bernard" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR2EPQA1" nom_patronymique="AMIAND" prenoms="Jeannette" code_civilite="MME" />
+        <personne ID_personne="0010O00002AR2r4QAD" nom_patronymique="MICHEL-DANSAC" prenoms="Patrick" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR2tEQAT" nom_patronymique="MACHLER TOBAR" prenoms="Ernesto" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR2tDQAT" nom_patronymique="RICARD" prenoms="Jacqueline" code_civilite="MME" />
+        <personne ID_personne="0010O00002AR2OUQA1" nom_patronymique="COUTEAU" prenoms="Corinne" code_civilite="MME" />
+        <personne ID_personne="0010O00002AR2H1QAL" nom_patronymique="BLAESS MARGUERITE" prenoms="Marguerite" code_civilite="MME" />
+        <personne ID_personne="0010O00002AR2gbQAD" nom_patronymique="HENRION" prenoms="Joseph" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR2cCQAT" nom_patronymique="GIUSTI" prenoms="Rene" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR2cpQAD" nom_patronymique="GROS" prenoms="Alexandre" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR2xxQAD" nom_patronymique="PETITJEAN" prenoms="Dominique" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR2UIQA1" nom_patronymique="DUMONT" prenoms="Thierry" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR3DnQAL" nom_patronymique="XICLUNA" prenoms="Marc" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR327QAD" nom_patronymique="QUINTAVALLE" prenoms="Daniel" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR2H2QAL" nom_patronymique="BOUREAU" prenoms="Catherine" code_civilite="MME" />
+        <personne ID_personne="0010O00002AR2r3QAD" nom_patronymique="MAURIERE" prenoms="Herve" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR3BRQA1" nom_patronymique="VAUTIER" prenoms="Martial" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR24bQAD" nom_patronymique="BISSON" prenoms="Alain" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR2EbQAL" nom_patronymique="ARMANET DENISE V MAXI" prenoms="Denise" code_civilite="MME" />
+        <personne ID_personne="0010O00002AR2H0QAL" nom_patronymique="BLANCKAERT" prenoms="Berengere" code_civilite="MME" />
+        <personne ID_personne="0010O00002AR2GfQAL" nom_patronymique="BEAUGUILLAUME" prenoms="Francois" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR2OHQA1" nom_patronymique="CHOULET" prenoms="Jean-Pierre" code_civilite="MON" />
+        <personne ID_personne="00120000019OxnZAAS" nom_patronymique="RUINARD" prenoms="Annie" code_civilite="MME" />
+        <personne ID_personne="0010O00002AR2GvQAL" nom_patronymique="BONNETERRE" prenoms="Bernard" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR36FQAT" nom_patronymique="FOUQUET" prenoms="Dominique" code_civilite="MME" />
+        <personne ID_personne="0010O00002AR32LQAT" nom_patronymique="REMY" prenoms="Gerard" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR2EOQA1" nom_patronymique="ARMAND" prenoms="Francois" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR32jQAD" nom_patronymique="SPALART" prenoms="Jacques" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR2OLQA1" nom_patronymique="COMMANDEUR" prenoms="Jean" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR39GQAT" nom_patronymique="TOZZI" prenoms="Toussainte" code_civilite="MME" />
+        <personne ID_personne="0010O00002AR2ONQA1" nom_patronymique="CHEVALIER" prenoms="Christine" code_civilite="MME" />
+        <personne ID_personne="0010O00002AR2iSQAT" nom_patronymique="ICHES" prenoms="Charles" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR2cIQAT" nom_patronymique="GALLOIS" prenoms="Jean-Paul" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR2GtQAL" nom_patronymique="BLAISET" prenoms="Jean Benoist" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR2GpQAL" nom_patronymique="BARTHE" prenoms="Christian" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR2GqQAL" nom_patronymique="BORDIERE" prenoms="Dominique" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR39FQAT" nom_patronymique="THIELEMANS" prenoms="Jean-Claude" code_civilite="MON" />
+        <personne ID_personne="00120000019OxnTAAS" nom_patronymique="RUINARD" prenoms="Denis" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR2UJQA1" nom_patronymique="DENNERY" prenoms="Alain" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR2kYQAT" nom_patronymique="LEMAHIEU" prenoms="Alain" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR2HHQA1" nom_patronymique="BRICOU" prenoms="Gilles" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR2wgQAD" nom_patronymique="NISSLE" prenoms="Romuald" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR2cNQAT" nom_patronymique="GOSSELIN" prenoms="Frederic" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR2H6QAL" nom_patronymique="BEAU" prenoms="Christine" code_civilite="MME" />
+        <personne ID_personne="0010O00002AR2ERQA1" nom_patronymique="ALLOMBERT-DOUGNAC G - V MAXI" prenoms="Ghislaine" code_civilite="MME" />
+        <personne ID_personne="0010O00002AR2gcQAD" nom_patronymique="HUIBANT" prenoms="Alexandra" code_civilite="MME" />
+        <personne ID_personne="0010O00002AR2kiQAD" nom_patronymique="LEMAIRE" prenoms="Christian" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR2yCQAT" nom_patronymique="PETIT" prenoms="Gerard" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR2ZlQAL" nom_patronymique="FRANCOIS" prenoms="Florence" code_civilite="MME" />
+        <personne ID_personne="0010O00002AR3GpQAL" nom_patronymique="VENEKAS" prenoms="Philippe" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR2xRQAT" nom_patronymique="OUTHIER" prenoms="Jean-Pierre" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR2klQAD" nom_patronymique="LAUVERGNAT" prenoms="Pascal" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR2cTQAT" nom_patronymique="GAUVIN" prenoms="Geraldine" code_civilite="MME" />
+        <personne ID_personne="0010O00002AR2ZjQAL" nom_patronymique="FIRBO" prenoms="Jean-Marc" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR2UoQAL" nom_patronymique="DESBOIS" prenoms="Gwenael" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR2H5QAL" nom_patronymique="BECHAT" prenoms="Jean" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR2EQQA1" nom_patronymique="ALLIOUX" prenoms="Pierre" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR2cEQAT" nom_patronymique="GRANGER" prenoms="Philippe" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR2ZrQAL" nom_patronymique="FALL" prenoms="Yamar" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR2HfQAL" nom_patronymique="BACOU" prenoms="Denise" code_civilite="MME" />
+        <personne ID_personne="0010O00002AR2l6QAD" nom_patronymique="LO CASTO" prenoms="Michel" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR1zVQAT" nom_patronymique="RICHER" prenoms="Daniele" code_civilite="MME" />
+        <personne ID_personne="0010O00002AR1zUQAT" nom_patronymique="RICHER" prenoms="Claude" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR2imQAD" nom_patronymique="JACQUESSON" prenoms="Alain" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR2H3QAL" nom_patronymique="BLONDY" prenoms="Jean-Robert" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR3D8QAL" nom_patronymique="WU" prenoms="Michel" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR2UvQAL" nom_patronymique="DBJAY" prenoms="Didier" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR2OlQAL" nom_patronymique="CHOPFENBERG" prenoms="Nathalie" code_civilite="MME" />
+        <personne ID_personne="0010O00002AR2UrQAL" nom_patronymique="D'HERIN" prenoms="Bernard" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR2HsQAL" nom_patronymique="BUREAU" prenoms="Stephane" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR36cQAD" nom_patronymique="SORIN" prenoms="Jocelyne" code_civilite="MME" />
+        <personne ID_personne="0010O00002AR36dQAD" nom_patronymique="SORIN LUCIENNE - VMAXI" prenoms="Lucienne" code_civilite="MME" />
+        <personne ID_personne="0010O00002AR2EhQAL" nom_patronymique="ANTOINE" prenoms="Lydia" code_civilite="MME" />
+        <personne ID_personne="0010O00002AR2rVQAT" nom_patronymique="MOREL" prenoms="Alain" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR2lGQAT" nom_patronymique="LATARJET" prenoms="Marc" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR2UeQAL" nom_patronymique="DORMET" prenoms="Dominique" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR2cOQAT" nom_patronymique="GERVAIS" prenoms="Guy" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR32dQAD" nom_patronymique="REVY" prenoms="Helene" code_civilite="MME" />
+        <personne ID_personne="0010O00002AR2wmQAD" nom_patronymique="NOUAILHAT" prenoms="Guy" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR2chQAD" nom_patronymique="GUYOT" prenoms="Roger" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR2yVQAT" nom_patronymique="PONTVIANNE" prenoms="Claudine" code_civilite="MME" />
+        <personne ID_personne="0010O00002AR2USQA1" nom_patronymique="DENNERY" prenoms="Reine" code_civilite="MME" />
+        <personne ID_personne="0010O00002AR2UTQA1" nom_patronymique="DUCH" prenoms="Monique" code_civilite="MME" />
+        <personne ID_personne="0010O00002AR2giQAD" nom_patronymique="HECKMANN" prenoms="Veronique" code_civilite="MME" />
+        <personne ID_personne="0010O00002AR2ccQAD" nom_patronymique="GUICHARD" prenoms="Dominique" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR2rGQAT" nom_patronymique="MARTINET" prenoms="Nicolas" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR2OZQA1" nom_patronymique="LE GOFF" prenoms="Aurelie" code_civilite="MME" />
+        <personne ID_personne="0010O00002AR1ycQAD" nom_patronymique="LANDRIN" prenoms="Nicolas" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR1ytQAD" nom_patronymique="LANDRIN" prenoms="Catherine" code_civilite="MME" />
+        <personne ID_personne="0010O00002AR2UiQAL" nom_patronymique="DRIS" prenoms="Herve" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR2rMQAT" nom_patronymique="MAO" prenoms="Gildas" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR2ceQAD" nom_patronymique="GIROUD D'ARGOUD" prenoms="Monique" code_civilite="MME" />
+        <personne ID_personne="0010O00002AR2rNQAT" nom_patronymique="MELAY" prenoms="Lucien" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR2rDQAT" nom_patronymique="MACLAUD" prenoms="Christine" code_civilite="MME" />
+        <personne ID_personne="0010O00002AR2RgQAL" nom_patronymique="CAUVIN" prenoms="Martine" code_civilite="MME" />
+        <personne ID_personne="0010O00002AR2FMQA1" nom_patronymique="HESSEL" prenoms="Agnes" code_civilite="MME" />
+        <personne ID_personne="0010O00002AR2u2QAD" nom_patronymique="MAUPU" prenoms="Corinne" code_civilite="MME" />
+        <personne ID_personne="0010O00002AR2FQQA1" nom_patronymique="AUDRAS" prenoms="Emmanuelle" code_civilite="MME" />
+        <personne ID_personne="0010O00002AR2KRQA1" nom_patronymique="BELLANGER" prenoms="Delphine" code_civilite="MME" />
+        <personne ID_personne="0010O00002AR2kQQAT" nom_patronymique="OUDOT" prenoms="Nazli" code_civilite="MME" />
+        <personne ID_personne="0010O00002AR2t8QAD" nom_patronymique="MAUPU" prenoms="Patrick" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR2xeQAD" nom_patronymique="OUDOT" prenoms="Francois" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR2zqQAD" nom_patronymique="PERRIER ARC" prenoms="Alexandra" code_civilite="MME" />
+        <personne ID_personne="0010O00002AR32mQAD" nom_patronymique="RABESANDRATANA" prenoms="Annick" code_civilite="MME" />
+        <personne ID_personne="0010O00002AR2nIQAT" nom_patronymique="LOISON" prenoms="Jean-Claude" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR2xjQAD" nom_patronymique="OUDOT" prenoms="Jean-Michel" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR2EmQAL" nom_patronymique="ARNAUD" prenoms="Andre" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR2F6QAL" nom_patronymique="AMANN" prenoms="Jean-Pierre" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR2OGQA1" nom_patronymique="CRANN" prenoms="Brigitte" code_civilite="MME" />
+        <personne ID_personne="0010O00002AR2IlQAL" nom_patronymique="BECHAT" prenoms="France" code_civilite="MME" />
+        <personne ID_personne="0010O00002AR2xaQAD" nom_patronymique="OUDOT" prenoms="Jean-Paul" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR2FIQA1" nom_patronymique="AUDRY" prenoms="Dominique" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR2VZQA1" nom_patronymique="DUVERNEUIL" prenoms="Pascal" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR2VaQAL" nom_patronymique="DUVERNEUIL" prenoms="Nadine" code_civilite="MME" />
+        <personne ID_personne="0010O00002AR2z7QAD" nom_patronymique="PORET" prenoms="Gregoire" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR2ZKQA1" nom_patronymique="EYQUEM" prenoms="Christiane" code_civilite="MME" />
+        <personne ID_personne="0010O00002AR33BQAT" nom_patronymique="ROUBAUD" prenoms="Christian" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR2yrQAD" nom_patronymique="PEYRARD" prenoms="Christian" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR2ZLQA1" nom_patronymique="EYQUEM" prenoms="Benoit" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR2sXQAT" nom_patronymique="MICHAUD" prenoms="Herve" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR2VWQA1" nom_patronymique="DUGELET" prenoms="Philippe" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR2dRQAT" nom_patronymique="GACHE" prenoms="Cyrille" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR2aLQAT" nom_patronymique="FLUTRE" prenoms="Jean-Pierre" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR36wQAD" nom_patronymique="SIX" prenoms="Jean-Francois" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR3BOQA1" nom_patronymique="VARRAUT" prenoms="Jean" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR32SQAT" nom_patronymique="ROTHSCHILD" prenoms="Philippe" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR1yTQAT" nom_patronymique="EVE" prenoms="Thierry" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR1yUQAT" nom_patronymique="EVE" prenoms="Brigitte" code_civilite="MME" />
+        <personne ID_personne="0010O00002AR32oQAD" nom_patronymique="RONSAIN" prenoms="Maxime" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR2I9QAL" nom_patronymique="BOISSON" prenoms="Marc" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR22xQAD" nom_patronymique="AUGER" prenoms="Bernard" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR1zYQAT" nom_patronymique="RANDONNIER" prenoms="Chantal" code_civilite="MME" />
+        <personne ID_personne="0010O00002AR1zXQAT" nom_patronymique="RANDONNIER" prenoms="Alain" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR2lfQAD" nom_patronymique="LEMOINE" prenoms="Sebastien" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR2lgQAD" nom_patronymique="LACHERET" prenoms="Olivier" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR2lhQAD" nom_patronymique="LE DELLIOU" prenoms="Pascal" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR2rqQAD" nom_patronymique="MATHIEU" prenoms="Jacques" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR2rpQAD" nom_patronymique="MATHIEU" prenoms="Mireille" code_civilite="MME" />
+        <personne ID_personne="0010O00002AR2dJQAT" nom_patronymique="GINER" prenoms="Bernadette" code_civilite="MME" />
+        <personne ID_personne="0010O00002AR2dKQAT" nom_patronymique="GINER" prenoms="Renaud" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR2IoQAL" nom_patronymique="BOULAS" prenoms="Bernadette" code_civilite="MME" />
+        <personne ID_personne="0010O00002AR2lyQAD" nom_patronymique="LUYDLIN" prenoms="Jean Noel" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR3BnQAL" nom_patronymique="VALKOV" prenoms="Marie" code_civilite="MME" />
+        <personne ID_personne="0010O00002AR2beQAD" nom_patronymique="FRANCOIS" prenoms="Monique" code_civilite="MME" />
+        <personne ID_personne="0010O00002AR2bdQAD" nom_patronymique="FRANCOIS" prenoms="Jacques" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR2IgQAL" nom_patronymique="BAYROU" prenoms="Xavier" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR2IhQAL" nom_patronymique="BAYROU" prenoms="Sophie" code_civilite="MME" />
+        <personne ID_personne="0010O00002AR2EjQAL" nom_patronymique="AYMA" prenoms="Jean" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR336QAD" nom_patronymique="MONDESIR" prenoms="Celine" code_civilite="MME" />
+        <personne ID_personne="0010O00002AR2yzQAD" nom_patronymique="PETITGAND" prenoms="Helene" code_civilite="MME" />
+        <personne ID_personne="0010O00002AR4EnQAL" nom_patronymique="LEURENT" prenoms="Frederic" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR4FxQAL" nom_patronymique="ROYER" prenoms="Christine" code_civilite="MME" />
+        <personne ID_personne="0010O00002AR4JWQA1" nom_patronymique="CAROSSO" prenoms="Jeannine" code_civilite="MME" />
+        <personne ID_personne="0010O00002AR3PUQA1" nom_patronymique="BOURQUI" prenoms="Denise" code_civilite="MME" />
+        <personne ID_personne="0010O00002AR3PPQA1" nom_patronymique="BLANC" prenoms="Sylvie" code_civilite="MME" />
+        <personne ID_personne="0010O00002AR3O4QAL" nom_patronymique="CAROSSO" prenoms="Henri-Louis" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR48zQAD" nom_patronymique="DOSSIN" prenoms="Chantal" code_civilite="MME" />
+        <personne ID_personne="0010O00002AR493QAD" nom_patronymique="NADEAU" prenoms="Jacques" code_civilite="MON" />
+        <personne ID_personne="0010O00002ARPx0QAH" nom_patronymique="MME ET M. QUERUAU LAMERIE" />
+        <personne ID_personne="0010O00002AR3K1QAL" nom_patronymique="PLANQUART" prenoms="Claudie" code_civilite="MME" />
+        <personne ID_personne="0010O00002AR4BpQAL" nom_patronymique="WILLOQUEAUX" prenoms="Jeanne" code_civilite="MME" />
+        <personne ID_personne="0010O00002AR4DpQAL" nom_patronymique="WATINE" prenoms="Muriel" code_civilite="MME" />
+        <personne ID_personne="0010O00002AR3cjQAD" nom_patronymique="MORETTI" prenoms="Jean" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR3xGQAT" nom_patronymique="CARNEL" prenoms="Catherine" code_civilite="MME" />
+        <personne ID_personne="0010O00002ARPvKQAX" nom_patronymique="MME ET M. WILLOQUEAUX JEANNE" />
+        <personne ID_personne="0010O00002No2IFQAZ" nom_patronymique="WILLOQUEAUX" prenoms="Daniele" code_civilite="MME" />
+        <personne ID_personne="0010O00002No2G6QAJ" nom_patronymique="DUPILLE" prenoms="Nicole" code_civilite="MME" />
+        <personne ID_personne="0010O00002No2FlQAJ" nom_patronymique="LEMAITRE" prenoms="Jeannine" code_civilite="MME" />
+        <personne ID_personne="0010O00002AR3u9QAD" nom_patronymique="GEST" prenoms="Herve" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR31VQAT" nom_patronymique="PLANQUART" prenoms="Yves" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR3xWQAT" nom_patronymique="MASUREL" prenoms="Servane" code_civilite="MME" />
+        <personne ID_personne="0010O00002AR3i3QAD" nom_patronymique="TRIQUET" prenoms="Jean" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR3YgQAL" nom_patronymique="BAUDIN" prenoms="Jacques" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR4IlQAL" nom_patronymique="MORETTI" prenoms="Dominique" code_civilite="MME" />
+        <personne ID_personne="0010O00002AR4MOQA1" nom_patronymique="LEFRANCQ" prenoms="Herve" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR4MSQA1" nom_patronymique="COSIMI" prenoms="Bernard" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR4MmQAL" nom_patronymique="COUTURES" prenoms="Bernadette" code_civilite="MME" />
+        <personne ID_personne="0010O00002AR4KcQAL" nom_patronymique="GUICHAOUA" prenoms="Olivier" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR3NrQAL" nom_patronymique="BLANGERO" prenoms="Gilberte" code_civilite="MME" />
+        <personne ID_personne="0010O00002AR2a4QAD" nom_patronymique="FOLIGNE" prenoms="Alain" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR4IyQAL" nom_patronymique="CHARREYRON" prenoms="André" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR4JQQA1" nom_patronymique="MULATIER DE LATROLLIERE" prenoms="Jacques" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR4LAQA1" nom_patronymique="VANAERDE" prenoms="Patrick" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR4LRQA1" nom_patronymique="ARDOUIN-DUMAZET" prenoms="Sebastien" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR4LWQA1" nom_patronymique="RIZO" prenoms="Nicole" code_civilite="MME" />
+        <personne ID_personne="0010O00002AR4M1QAL" nom_patronymique="ROUSSEAU" prenoms="Remi" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR3YBQA1" nom_patronymique="HERAIL" prenoms="Laurence" code_civilite="MME" />
+        <personne ID_personne="0010O00002AR3NCQA1" nom_patronymique="GICQUEL" prenoms="Laurence" code_civilite="MME" />
+        <personne ID_personne="0010O00002AR3NjQAL" nom_patronymique="ORSONI" prenoms="Elia" code_civilite="MME" />
+        <personne ID_personne="0010O00002AR3ObQAL" nom_patronymique="MARCHETTO" prenoms="Veronique" code_civilite="MME" />
+        <personne ID_personne="0010O00002AR3SOQA1" nom_patronymique="DARIOSECQ" prenoms="Manuel" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR3duQAD" nom_patronymique="MOREAU STEFANI" prenoms="Matteo" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR3dtQAD" nom_patronymique="MOREAU STEFANI" prenoms="Nathan" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR3UWQA1" nom_patronymique="FOLIGNE" prenoms="Anne-Marie" code_civilite="MME" />
+        <personne ID_personne="0010O00002AR3XgQAL" nom_patronymique="GICQUEL" prenoms="Francoise" code_civilite="MME" />
+        <personne ID_personne="0010O00002AR3XzQAL" nom_patronymique="MYLONAS" prenoms="Yolande" code_civilite="MME" />
+        <personne ID_personne="0010O00002AR3YCQA1" nom_patronymique="OGER" prenoms="Florence" code_civilite="MME" />
+        <personne ID_personne="0010O00002AR3eVQAT" nom_patronymique="ROUSSEAU" prenoms="Gilles" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR3d0QAD" nom_patronymique="DELWAL" prenoms="Maryvonne" code_civilite="MME" />
+        <personne ID_personne="0010O00002AR3dVQAT" nom_patronymique="CHRETIEN" prenoms="Leopold" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR3dUQAT" nom_patronymique="CHRETIEN" prenoms="Thibaut" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR3dXQAT" nom_patronymique="CHRETIEN" prenoms="Nathan" code_civilite="MON" />
+        <personne ID_personne="00120000019Oy6iAAC" nom_patronymique="GRANIER BLANC" prenoms="Anne" code_civilite="MME" />
+        <personne ID_personne="00120000019OzIIAA0" nom_patronymique="BLANCHARD" prenoms="Anne-Mireille" code_civilite="MME" />
+        <personne ID_personne="00120000019Oy3rAAC" nom_patronymique="GRIMALDI" prenoms="Hervé-Michel" code_civilite="MON" />
+        <personne ID_personne="00120000019OyEPAA0" nom_patronymique="DE MALET" prenoms="Bertrand" code_civilite="MON" />
+        <personne ID_personne="00120000019P07tAAC" nom_patronymique="CHATEAUNEUF" prenoms="Michèle" code_civilite="MME" />
+        <personne ID_personne="00120000019Oy5EAAS" nom_patronymique="BANCHEREAU" prenoms="Madeleine" code_civilite="MME" />
+        <personne ID_personne="00120000019OuBwAAK" nom_patronymique="LABEL DIRECT" code_civilite="STE" />
+        <personne ID_personne="00120000019Oy1IAAS" nom_patronymique="GOUY" prenoms="Michel" code_civilite="MON" />
+        <personne ID_personne="00120000019OxzYAAS" nom_patronymique="RINGO" prenoms="Jean-Pierre" code_civilite="MON" />
+        <personne ID_personne="00120000019OwGcAAK" nom_patronymique="MALINGE" prenoms="Pascal" code_civilite="MON" />
+        <personne ID_personne="00120000019Oz4zAAC" nom_patronymique="LANDAIS" prenoms="Dominique" code_civilite="MON" />
+        <personne ID_personne="00120000019Ouq4AAC" nom_patronymique="SIMON" prenoms="Jean" code_civilite="MON" />
+        <personne ID_personne="00120000019OuchAAC" nom_patronymique="SIMON" prenoms="Marie" code_civilite="MME" />
+        <personne ID_personne="00120000019OxppAAC" nom_patronymique="MASSON" prenoms="Laurence" code_civilite="MME" />
+        <personne ID_personne="0012000001NJnbYAAT" nom_patronymique="LE SOUVENIR VENDEEN" code_civilite="STE" />
+        <personne ID_personne="0012000001NJnVCAA1" nom_patronymique="MEUNIER" prenoms="Martine" code_civilite="MME" />
+        <personne ID_personne="0010O00002AR2ikQAD" nom_patronymique="JUAN" prenoms="Charles" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR2cQQAT" nom_patronymique="GEORGEAULT" prenoms="Didier" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR2cLQAT" nom_patronymique="GIBELIN" prenoms="Philippe" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR2cmQAD" nom_patronymique="GABRIELLY" prenoms="Patrick" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR2lHQAT" nom_patronymique="LHEUREUX" prenoms="Jean-Charles" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR2ZnQAL" nom_patronymique="FERMON" prenoms="Nicole" code_civilite="MME" />
+        <personne ID_personne="0010O00002AR2kzQAD" nom_patronymique="LE" prenoms="Van" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR32ZQAT" nom_patronymique="RUFFENACH" prenoms="Gabriel" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR2myQAD" nom_patronymique="LECLERCQ" prenoms="Hugues" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR2wkQAD" nom_patronymique="NAVARRE" prenoms="Anna" code_civilite="MME" />
+        <personne ID_personne="0010O00002AR36HQAT" nom_patronymique="SIGRIST" prenoms="Patrick" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR2kyQAD" nom_patronymique="LONGUET" prenoms="Philippe" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR2HoQAL" nom_patronymique="BOUCHER" prenoms="Rene" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR32eQAD" nom_patronymique="RAYNAUD" prenoms="Xavier" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR2rYQAT" nom_patronymique="MAGNIN" prenoms="Jean-Pierre" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR2HAQA1" nom_patronymique="BOUVIER" prenoms="Jean Claude" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR2HFQA1" nom_patronymique="LE BLOA" prenoms="Philippe" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR39MQAT" nom_patronymique="TACON" prenoms="Jean" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR39NQAT" nom_patronymique="TRAN" prenoms="Thu-Sanh" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR3BbQAL" nom_patronymique="VILLET" prenoms="Danielle" code_civilite="MME" />
+        <personne ID_personne="0010O00002AR20QQAT" nom_patronymique="VILLET" prenoms="Christian" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR2ZmQAL" nom_patronymique="FERRERO" prenoms="Marie Paule" code_civilite="MME" />
+        <personne ID_personne="0010O00002AR1z6QAD" nom_patronymique="MAGNE" prenoms="Jacqueline" code_civilite="MME" />
+        <personne ID_personne="0010O00002AR1z5QAD" nom_patronymique="MAGNE" prenoms="Augustin" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR2wfQAD" nom_patronymique="NEUN" prenoms="Gerard" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR2wjQAD" nom_patronymique="NOUALLET" prenoms="Jeannine" code_civilite="MME" />
+        <personne ID_personne="0010O00002AR2wiQAD" nom_patronymique="NOUALLET" prenoms="Jean" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR32UQAT" nom_patronymique="ROUX" prenoms="Bruno" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR1yLQAT" nom_patronymique="DEJONCKHEERE" prenoms="Marie" code_civilite="MME" />
+        <personne ID_personne="0010O00002AR1yKQAT" nom_patronymique="DEJONCKHEERE" prenoms="Christian" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR7bWQAT" nom_patronymique="SAULNIER GUYOT" prenoms="Monique" code_civilite="MME" />
+        <personne ID_personne="0010O00002AR5AOQA1" nom_patronymique="SCRIVE" prenoms="Benoit" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR5APQA1" nom_patronymique="SCRIVE" prenoms="Marie" code_civilite="MME" />
+        <personne ID_personne="0010O00002AR8tmQAD" nom_patronymique="DUMONT" prenoms="Muriel" code_civilite="MME" />
+        <personne ID_personne="0010O00002AR9PiQAL" nom_patronymique="SINDZINGRE" prenoms="Camille" code_civilite="MME" />
+        <personne ID_personne="0010O00002AR9PjQAL" nom_patronymique="SINDZINGRE" prenoms="Louise" code_civilite="MME" />
+        <personne ID_personne="0010O00002AR9PkQAL" nom_patronymique="SINDZINGRE" prenoms="Maud" code_civilite="MME" />
+        <personne ID_personne="0010O00002AR7m2QAD" nom_patronymique="CHAMBON" prenoms="Simone" code_civilite="MME" />
+        <personne ID_personne="0010O00002AR6bRQAT" nom_patronymique="DELORME" prenoms="Herve" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR84NQAT" nom_patronymique="RICHARD" prenoms="Joseph" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR6wFQAT" nom_patronymique="NICOLAS" prenoms="Francois" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR6wIQAT" nom_patronymique="NICOLAS" prenoms="Isabelle" code_civilite="MME" />
+        <personne ID_personne="0010O00002AR4nxQAD" nom_patronymique="SINDZINGRE" prenoms="Danielle" code_civilite="MME" />
+        <personne ID_personne="0010O00002AR8ePQAT" nom_patronymique="BESCOND DUMONT" prenoms="Muriel" code_civilite="MME" />
+        <personne ID_personne="0010O00002AR7EeQAL" nom_patronymique="AZAN" prenoms="Alain" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR7B1QAL" nom_patronymique="POTOCKI FRANCOIS" prenoms="Anne Christine" code_civilite="MME" />
+        <personne ID_personne="0010O00002AR5FzQAL" nom_patronymique="LUCQUIN" prenoms="Denis" code_civilite="MON" />
+        <personne ID_personne="0010O00002AR5FyQAL" nom_patronymique="LUCQUIN" prenoms="Brigitte" code_civilite="MME" />
+      </personnes>
+      <contrats>
+        <contrat ID_contrat="a0G0O00001AadJ0UAJ" num_contrat="D10000117" ref_ID_produit="000196" ref_ID_conseiller="0012000001567cZAAQ" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="03/06/2005 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-146343" ref_ID_personne="0010O00002JrNJjQAN" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa377UAB" num_contrat="T31400062" ref_ID_produit="000197" ref_ID_conseiller="0010O00002AQAqoQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="04/11/2014 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-107872" ref_ID_personne="0010O00002AR4hJQAT" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa386UAB" num_contrat="T31400083" ref_ID_produit="000197" ref_ID_conseiller="0010O00002AQAqLQAX" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="07/01/2015 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-98724" ref_ID_personne="0010O00002AR2XcQAL" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa2csUAB" num_contrat="T1041003284" ref_ID_produit="000200" ref_ID_conseiller="0010O00002AQAqLQAX" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="08/06/2007 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-114265" ref_ID_personne="0010O00002AR3pgQAD" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa2B4UAJ" num_contrat="T1041003493" ref_ID_produit="000200" ref_ID_conseiller="0012000001567cZAAQ" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="08/02/2008 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-115831" ref_ID_personne="0010O00002AR3rvQAD" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa2B0UAJ" num_contrat="T1041002570" ref_ID_produit="000200" ref_ID_conseiller="0012000001567cZAAQ" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="14/04/2006 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-110944" ref_ID_personne="0010O00002AR3idQAD" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001AayDFUAZ" num_contrat="D33500092" ref_ID_produit="000353" ref_ID_conseiller="0012000001567cZAAQ" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="21/09/2007 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-127417" ref_ID_personne="00120000019OyB4AAK" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Ab1TKUAZ" num_contrat="T1270716668" ref_ID_produit="000354" ref_ID_conseiller="0012000001567cZAAQ" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="12/07/1993 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-133648" ref_ID_personne="0010O00002HOom6QAD" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Ab1GPUAZ" num_contrat="T0981000890" ref_ID_produit="000350" ref_ID_conseiller="0012000001567cZAAQ" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="25/01/2008 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-128475" ref_ID_personne="0010O00002HOlbHQAT" code_role="S" />
+            <role ID_role="SS-128483" ref_ID_personne="0010O00002HOlbIQAT" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Ab1GOUAZ" num_contrat="T0981000889" ref_ID_produit="000350" ref_ID_conseiller="0012000001567cZAAQ" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="25/01/2008 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-126187" ref_ID_personne="0010O00002HOlbKQAT" code_role="S" />
+            <role ID_role="SS-126179" ref_ID_personne="0010O00002HOlbJQAT" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Ab1GNUAZ" num_contrat="T0981000888" ref_ID_produit="000350" ref_ID_conseiller="0012000001567cZAAQ" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="25/01/2008 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-126211" ref_ID_personne="0010O00002HOlbMQAT" code_role="S" />
+            <role ID_role="SS-126247" ref_ID_personne="0010O00002HOlbLQAT" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001AayCFUAZ" num_contrat="D33400053" ref_ID_produit="000352" ref_ID_conseiller="0012000001567cZAAQ" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="27/04/2001 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-128477" ref_ID_personne="0010O00002HOoioQAD" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001AayDCUAZ" num_contrat="D33500076" ref_ID_produit="000353" ref_ID_conseiller="0012000001567cZAAQ" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="01/09/2006 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-128037" ref_ID_personne="0010O00002HOlWTQA1" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001AayD5UAJ" num_contrat="D33500060" ref_ID_produit="000353" ref_ID_conseiller="0012000001567cZAAQ" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="03/03/2006 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-127741" ref_ID_personne="0010O00002HOlUgQAL" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8cqUAB" num_contrat="T1150709304" ref_ID_produit="000253" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="01/05/2001 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-97578" ref_ID_personne="0010O00002AR2yUQAT" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8LwUAJ" num_contrat="T1150707358" ref_ID_produit="000253" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="21/12/2000 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-113665" ref_ID_personne="0010O00002AR2HkQAL" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8XaUAJ" num_contrat="T1150705361" ref_ID_produit="000253" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="17/08/2000 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-110623" ref_ID_personne="0010O00002AR2l7QAD" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Ab16yUAB" num_contrat="T0980715808" ref_ID_produit="000350" ref_ID_conseiller="0012000001567cZAAQ" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="10/02/2003 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-144488" ref_ID_personne="0010O00002HOp2UQAT" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Ab16xUAB" num_contrat="T0980715807" ref_ID_produit="000350" ref_ID_conseiller="0012000001567cZAAQ" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="10/02/2003 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-144489" ref_ID_personne="0010O00002HOp2TQAT" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Ab1GQUAZ" num_contrat="T0981000891" ref_ID_produit="000350" ref_ID_conseiller="0012000001567cZAAQ" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="25/01/2008 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-128455" ref_ID_personne="0010O00002HOlbOQAT" code_role="S" />
+            <role ID_role="SS-128463" ref_ID_personne="0010O00002HOlbNQAT" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8VmUAJ" num_contrat="T1150703715" ref_ID_produit="000253" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="21/05/2000 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-112030" ref_ID_personne="0010O00002AR2gjQAD" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8SrUAJ" num_contrat="T1150703775" ref_ID_produit="000253" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="22/05/2000 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-96984" ref_ID_personne="0010O00002AR2ZAQA1" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8TIUAZ" num_contrat="T1150715769" ref_ID_produit="000253" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="29/12/1992 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-102930" ref_ID_personne="0010O00002AR2a8QAD" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8REUAZ" num_contrat="T1150702815" ref_ID_produit="000253" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="30/03/2000 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-117094" ref_ID_personne="0010O00002AR2UfQAL" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8VkUAJ" num_contrat="T1150702840" ref_ID_produit="000253" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="07/04/2000 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-112834" ref_ID_personne="0010O00002AR2ghQAD" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8M4UAJ" num_contrat="T1150710281" ref_ID_produit="000253" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="16/07/2001 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-113677" ref_ID_personne="0010O00002AR2HvQAL" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8cQUAR" num_contrat="T1151000158" ref_ID_produit="000253" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="10/06/2005 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-98886" ref_ID_personne="0010O00002AR2xbQAD" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8PVUAZ" num_contrat="T1151000084" ref_ID_produit="000253" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="09/12/2004 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-110953" ref_ID_personne="0010O00002AR2QGQA1" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8MHUAZ" num_contrat="T1150716390" ref_ID_produit="000253" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="09/04/2003 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-114058" ref_ID_personne="0010O00002AR2IMQA1" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8VnUAJ" num_contrat="T1150705049" ref_ID_produit="000253" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="27/07/2000 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-112141" ref_ID_personne="0010O00002AR2gkQAD" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8RFUAZ" num_contrat="T1150703161" ref_ID_produit="000253" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="26/04/2000 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-116926" ref_ID_personne="0010O00002AR2UgQAL" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8UFUAZ" num_contrat="T1150703847" ref_ID_produit="000253" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="29/05/2000 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-98472" ref_ID_personne="0010O00002AR1yaQAD" code_role="S" />
+            <role ID_role="SS-98424" ref_ID_personne="0010O00002AR1ybQAD" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8JsUAJ" num_contrat="T1170180860" ref_ID_produit="000204" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="01/07/1997 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-112624" ref_ID_personne="0010O00002AR2EcQAL" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8JkUAJ" num_contrat="T1170180862" ref_ID_produit="000204" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="01/07/1997 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-112675" ref_ID_personne="0010O00002AR2EPQA1" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8ZvUAJ" num_contrat="T1170180773" ref_ID_produit="000204" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="02/07/1997 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-117436" ref_ID_personne="0010O00002AR2r4QAD" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8axUAB" num_contrat="T1151000235" ref_ID_produit="000253" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="18/11/2005 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-117538" ref_ID_personne="0010O00002AR2tEQAT" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8awUAB" num_contrat="T1151000234" ref_ID_produit="000253" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="18/11/2005 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-116662" ref_ID_personne="0010O00002AR2tDQAT" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8PgUAJ" num_contrat="T1151000202" ref_ID_produit="000253" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="16/09/2005 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-111838" ref_ID_personne="0010O00002AR2OUQA1" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8O8UAJ" num_contrat="T1170180713" ref_ID_produit="000204" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="26/06/1997 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-112231" ref_ID_personne="0010O00002AR2H1QAL" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8VhUAJ" num_contrat="T1170180710" ref_ID_produit="000204" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="26/06/1997 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-112894" ref_ID_personne="0010O00002AR2gbQAD" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8WAUAZ" num_contrat="T1170180711" ref_ID_produit="000204" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="26/06/1997 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-112807" ref_ID_personne="0010O00002AR2gbQAD" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8LTUAZ" num_contrat="T1170180712" ref_ID_produit="000204" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="26/06/1997 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-112318" ref_ID_personne="0010O00002AR2H1QAL" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8TsUAJ" num_contrat="T1170180740" ref_ID_produit="000204" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="30/06/1997 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-100206" ref_ID_personne="0010O00002AR2cCQAT" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8UPUAZ" num_contrat="T1170180741" ref_ID_produit="000204" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="01/07/1997 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-101484" ref_ID_personne="0010O00002AR2cpQAD" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8cZUAR" num_contrat="T1170179277" ref_ID_produit="000204" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="08/01/1997 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-99702" ref_ID_personne="0010O00002AR2xxQAD" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8QvUAJ" num_contrat="T1170179229" ref_ID_produit="000204" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="10/01/1997 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-116890" ref_ID_personne="0010O00002AR2UIQA1" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8jBUAR" num_contrat="T1170179307" ref_ID_produit="000204" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="14/01/1997 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-113938" ref_ID_personne="0010O00002AR3DnQAL" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8eBUAR" num_contrat="T1170180470" ref_ID_produit="000204" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="05/06/1997 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-102654" ref_ID_personne="0010O00002AR327QAD" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8LUUAZ" num_contrat="T1170180747" ref_ID_produit="000204" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="13/06/1997 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-112207" ref_ID_personne="0010O00002AR2H2QAL" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8ZuUAJ" num_contrat="T1170180709" ref_ID_produit="000204" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="22/06/1997 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-117424" ref_ID_personne="0010O00002AR2r3QAD" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8hmUAB" num_contrat="T1170178023" ref_ID_produit="000204" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="30/06/1996 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-112156" ref_ID_personne="0010O00002AR3BRQA1" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8LRUAZ" num_contrat="T1170178452" ref_ID_produit="000204" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="18/08/1996 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-102126" ref_ID_personne="0010O00002AR24bQAD" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8JrUAJ" num_contrat="T1170178350" ref_ID_produit="000204" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="17/09/1996 00:00:00" code_etat_contrat="SDE">
+          <roles>
+            <role ID_role="SS-112636" ref_ID_personne="0010O00002AR2EbQAL" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8M3UAJ" num_contrat="T1170178721" ref_ID_produit="000204" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="21/10/1996 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-112402" ref_ID_personne="0010O00002AR2H0QAL" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8LBUAZ" num_contrat="T1170178918" ref_ID_produit="000204" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="22/11/1996 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-112888" ref_ID_personne="0010O00002AR2GfQAL" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8OlUAJ" num_contrat="T1170179141" ref_ID_produit="000204" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="03/01/1997 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-111745" ref_ID_personne="0010O00002AR2OHQA1" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8eKUAR" num_contrat="T1170176360" ref_ID_produit="000204" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="29/12/1995 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-118922" ref_ID_personne="00120000019OxnZAAS" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8LMUAZ" num_contrat="T1170176396" ref_ID_produit="000204" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="05/01/1996 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-112204" ref_ID_personne="0010O00002AR2GvQAL" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8frUAB" num_contrat="T1170176500" ref_ID_produit="000204" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="26/01/1996 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-100626" ref_ID_personne="0010O00002AR36FQAT" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8eLUAR" num_contrat="T1170176673" ref_ID_produit="000204" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="01/03/1996 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-102390" ref_ID_personne="0010O00002AR32LQAT" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8JjUAJ" num_contrat="T1170177633" ref_ID_produit="000204" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="29/05/1996 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-112630" ref_ID_personne="0010O00002AR2EOQA1" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8fsUAB" num_contrat="T1170177971" ref_ID_produit="000204" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="25/06/1996 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-97920" ref_ID_personne="0010O00002AR32jQAD" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8OnUAJ" num_contrat="T1170175765" ref_ID_produit="000204" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="29/06/1995 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-111808" ref_ID_personne="0010O00002AR2OLQA1" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8gwUAB" num_contrat="T1170175948" ref_ID_produit="000204" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="22/09/1995 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-100386" ref_ID_personne="0010O00002AR39GQAT" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8OoUAJ" num_contrat="T1170176088" ref_ID_produit="000204" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="10/11/1995 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-111589" ref_ID_personne="0010O00002AR2ONQA1" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8WMUAZ" num_contrat="T1170176313" ref_ID_produit="000204" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="15/12/1995 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-114052" ref_ID_personne="0010O00002AR2iSQAT" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8TxUAJ" num_contrat="T1170176324" ref_ID_produit="000204" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="20/12/1995 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-101028" ref_ID_personne="0010O00002AR2cIQAT" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8LLUAZ" num_contrat="T1170176392" ref_ID_produit="000204" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="29/12/1995 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-112450" ref_ID_personne="0010O00002AR2GtQAL" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8LIUAZ" num_contrat="T1170175023" ref_ID_produit="000204" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="14/11/1994 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-111895" ref_ID_personne="0010O00002AR2GpQAL" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8LJUAZ" num_contrat="T1170175639" ref_ID_produit="000204" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="17/05/1995 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-111979" ref_ID_personne="0010O00002AR2GqQAL" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8gvUAB" num_contrat="T1170175729" ref_ID_produit="000204" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="20/06/1995 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-100902" ref_ID_personne="0010O00002AR39FQAT" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8eJUAR" num_contrat="T1170175741" ref_ID_produit="000204" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="21/06/1995 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-118916" ref_ID_personne="00120000019OxnTAAS" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8QwUAJ" num_contrat="T1170175740" ref_ID_produit="000204" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="26/06/1995 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-116938" ref_ID_personne="0010O00002AR2UJQA1" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8XEUAZ" num_contrat="T1170175737" ref_ID_produit="000204" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="26/06/1995 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-110461" ref_ID_personne="0010O00002AR2kYQAT" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8LYUAZ" num_contrat="T1170183868" ref_ID_produit="000204" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="07/02/1998 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-113695" ref_ID_personne="0010O00002AR2HHQA1" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8byUAB" num_contrat="T1170184096" ref_ID_produit="000204" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="04/03/1998 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-118744" ref_ID_personne="0010O00002AR2wgQAD" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8U1UAJ" num_contrat="T1170184236" ref_ID_produit="000204" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="21/03/1998 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-101544" ref_ID_personne="0010O00002AR2cNQAT" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8LaUAJ" num_contrat="T1170184282" ref_ID_produit="000204" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="29/03/1998 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-112285" ref_ID_personne="0010O00002AR2H6QAL" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8JmUAJ" num_contrat="T1170184639" ref_ID_produit="000204" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="18/04/1998 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-112501" ref_ID_personne="0010O00002AR2ERQA1" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8ViUAJ" num_contrat="T1170184838" ref_ID_produit="000204" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="13/05/1998 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-112783" ref_ID_personne="0010O00002AR2gcQAD" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8XMUAZ" num_contrat="T1170182022" ref_ID_produit="000204" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="23/09/1997 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-113422" ref_ID_personne="0010O00002AR2kiQAD" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8chUAB" num_contrat="T1170183099" ref_ID_produit="000204" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="03/11/1997 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-99462" ref_ID_personne="0010O00002AR2yCQAT" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8T8UAJ" num_contrat="T1170183508" ref_ID_produit="000204" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="20/12/1997 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-98112" ref_ID_personne="0010O00002AR2ZlQAL" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa1fEUAR" num_contrat="T1170183599" ref_ID_produit="000204" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="21/12/1997 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-109852" ref_ID_personne="0010O00002AR3GpQAL" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8cIUAR" num_contrat="T1170183852" ref_ID_produit="000204" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="04/02/1998 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-99450" ref_ID_personne="0010O00002AR2xRQAT" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8XOUAZ" num_contrat="T1170183826" ref_ID_produit="000204" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="06/02/1998 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-110377" ref_ID_personne="0010O00002AR2klQAD" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8TtUAJ" num_contrat="T1170180974" ref_ID_produit="000204" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="15/07/1997 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-101862" ref_ID_personne="0010O00002AR2cTQAT" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8T7UAJ" num_contrat="T1170180966" ref_ID_produit="000204" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="22/07/1997 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-98250" ref_ID_personne="0010O00002AR2ZjQAL" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8R1UAJ" num_contrat="T1170181358" ref_ID_produit="000204" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="01/08/1997 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-118489" ref_ID_personne="0010O00002AR2UoQAL" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8LXUAZ" num_contrat="T1170181872" ref_ID_produit="000204" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="19/09/1997 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-112237" ref_ID_personne="0010O00002AR2H5QAL" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8JlUAJ" num_contrat="T1170181954" ref_ID_produit="000204" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="22/09/1997 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-112717" ref_ID_personne="0010O00002AR2EQQA1" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8TvUAJ" num_contrat="T1170182129" ref_ID_produit="000204" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="23/09/1997 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-100536" ref_ID_personne="0010O00002AR2cEQAT" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8TBUAZ" num_contrat="T1170706334" ref_ID_produit="000204" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="20/10/2000 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-98052" ref_ID_personne="0010O00002AR2ZrQAL" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8LvUAJ" num_contrat="T1170705404" ref_ID_produit="000204" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="31/10/2018 00:00:00" date_effet_contrat="01/08/2000 00:00:00" code_etat_contrat="CLO">
+          <roles>
+            <role ID_role="SS-113875" ref_ID_personne="0010O00002AR2HfQAL" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8XZUAZ" num_contrat="T1170705178" ref_ID_produit="000204" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="03/08/2000 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-110125" ref_ID_personne="0010O00002AR2l6QAD" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8eWUAR" num_contrat="T1170705288" ref_ID_produit="000204" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="10/08/2000 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-98058" ref_ID_personne="0010O00002AR1zVQAT" code_role="S" />
+            <role ID_role="SS-98364" ref_ID_personne="0010O00002AR1zUQAT" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8WVUAZ" num_contrat="T1170187774" ref_ID_produit="000204" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="23/01/1999 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-114028" ref_ID_personne="0010O00002AR2imQAD" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8LVUAZ" num_contrat="T1170180799" ref_ID_produit="000204" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="04/07/1997 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-112195" ref_ID_personne="0010O00002AR2H3QAL" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8isUAB" num_contrat="T1170707995" ref_ID_produit="000204" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="29/01/2001 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-114109" ref_ID_personne="0010O00002AR3D8QAL" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8ROUAZ" num_contrat="T1170708062" ref_ID_produit="000204" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="02/02/2001 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-118552" ref_ID_personne="0010O00002AR2UvQAL" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8RPUAZ" num_contrat="T1170708063" ref_ID_produit="000204" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="02/02/2001 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-118549" ref_ID_personne="0010O00002AR2UvQAL" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8RQUAZ" num_contrat="T1170708066" ref_ID_produit="000204" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="02/02/2001 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-118534" ref_ID_personne="0010O00002AR2UvQAL" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8P1UAJ" num_contrat="T1170707190" ref_ID_produit="000204" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="31/12/2000 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-111724" ref_ID_personne="0010O00002AR2OlQAL" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8RLUAZ" num_contrat="T1170707859" ref_ID_produit="000204" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="29/11/2000 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-118540" ref_ID_personne="0010O00002AR2UrQAL" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8M1UAJ" num_contrat="T1170710056" ref_ID_produit="000204" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="28/06/2001 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-113881" ref_ID_personne="0010O00002AR2HsQAL" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8g0UAB" num_contrat="T1170713746" ref_ID_produit="000204" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="03/07/2002 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-100740" ref_ID_personne="0010O00002AR36cQAD" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8g1UAB" num_contrat="T1170713747" ref_ID_produit="000204" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="03/07/2002 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-100788" ref_ID_personne="0010O00002AR36dQAD" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8JuUAJ" num_contrat="T1170713756" ref_ID_produit="000204" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="03/07/2002 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-112519" ref_ID_personne="0010O00002AR2EhQAL" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8aGUAR" num_contrat="T1170711855" ref_ID_produit="000204" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="03/01/2002 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-117676" ref_ID_personne="0010O00002AR2rVQAT" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8XgUAJ" num_contrat="T1170707873" ref_ID_produit="000204" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="29/01/2001 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-110518" ref_ID_personne="0010O00002AR2lGQAT" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8RDUAZ" num_contrat="T1170702241" ref_ID_produit="000204" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="15/03/2000 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-117130" ref_ID_personne="0010O00002AR2UeQAL" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8U2UAJ" num_contrat="T1170185319" ref_ID_produit="000204" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="27/06/1998 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-101472" ref_ID_personne="0010O00002AR2cOQAT" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8eYUAR" num_contrat="T1170708543" ref_ID_produit="000204" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="05/03/2001 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-97704" ref_ID_personne="0010O00002AR32dQAD" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8c3UAB" num_contrat="T1170708615" ref_ID_produit="000204" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="16/03/2001 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-99246" ref_ID_personne="0010O00002AR2wmQAD" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8UIUAZ" num_contrat="T1170707563" ref_ID_produit="000204" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="06/01/2001 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-100584" ref_ID_personne="0010O00002AR2chQAD" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8crUAB" num_contrat="T1170709479" ref_ID_produit="000204" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="11/05/2001 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-97488" ref_ID_personne="0010O00002AR2yVQAT" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8R7UAJ" num_contrat="T1170191995" ref_ID_produit="000204" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="11/09/1999 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-118588" ref_ID_personne="0010O00002AR2USQA1" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8R8UAJ" num_contrat="T1170192237" ref_ID_produit="000204" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="29/09/1999 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-118600" ref_ID_personne="0010O00002AR2UTQA1" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8VlUAJ" num_contrat="T1170703406" ref_ID_produit="000204" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="02/05/2000 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-112057" ref_ID_personne="0010O00002AR2giQAD" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8UDUAZ" num_contrat="T1170703397" ref_ID_produit="000204" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="02/05/2000 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-100278" ref_ID_personne="0010O00002AR2ccQAD" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8a5UAB" num_contrat="T1170701303" ref_ID_produit="000204" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="09/02/2000 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-117418" ref_ID_personne="0010O00002AR2rGQAT" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8OyUAJ" num_contrat="T1170701742" ref_ID_produit="000204" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="26/02/2000 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-111643" ref_ID_personne="0010O00002AR2OZQA1" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8XYUAZ" num_contrat="T1170702853" ref_ID_produit="000204" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="10/04/2000 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-98310" ref_ID_personne="0010O00002AR1ycQAD" code_role="S" />
+            <role ID_role="SS-98082" ref_ID_personne="0010O00002AR1ytQAD" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8RHUAZ" num_contrat="T1170703917" ref_ID_produit="000204" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="31/05/2000 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-116878" ref_ID_personne="0010O00002AR2UiQAL" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8a7UAB" num_contrat="T1170703955" ref_ID_produit="000204" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="05/06/2000 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-117226" ref_ID_personne="0010O00002AR2rMQAT" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8UGUAZ" num_contrat="T1170704958" ref_ID_produit="000204" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="21/06/2000 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-100512" ref_ID_personne="0010O00002AR2ceQAD" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8a8UAB" num_contrat="T1170704402" ref_ID_produit="000204" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="25/06/2000 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-117205" ref_ID_personne="0010O00002AR2rNQAT" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8a3UAB" num_contrat="T1170190895" ref_ID_produit="000204" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="21/05/1999 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-111094" ref_ID_personne="0010O00002AR2rDQAT" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8Q1UAJ" num_contrat="T1171003147" ref_ID_produit="000204" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="28/07/2006 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-117370" ref_ID_personne="0010O00002AR2RgQAL" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8KLUAZ" num_contrat="T1171003258" ref_ID_produit="000204" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="15/09/2006 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-112777" ref_ID_personne="0010O00002AR2FMQA1" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8bHUAR" num_contrat="T1171003444" ref_ID_produit="000204" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="17/11/2006 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-117088" ref_ID_personne="0010O00002AR2u2QAD" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8KRUAZ" num_contrat="T1171003688" ref_ID_produit="000204" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="26/01/2007 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-112882" ref_ID_personne="0010O00002AR2FQQA1" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8O1UAJ" num_contrat="T1171003697" ref_ID_produit="000204" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="02/02/2007 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-110260" ref_ID_personne="0010O00002AR2KRQA1" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8X8UAJ" num_contrat="T1171003925" ref_ID_produit="000204" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="13/04/2007 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-110236" ref_ID_personne="0010O00002AR2kQQAT" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8avUAB" num_contrat="T1171001931" ref_ID_produit="000204" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="21/10/2005 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-116722" ref_ID_personne="0010O00002AR2t8QAD" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8cRUAR" num_contrat="T1171001947" ref_ID_produit="000204" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="28/10/2005 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-98766" ref_ID_personne="0010O00002AR2xeQAD" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8dZUAR" num_contrat="T1171002374" ref_ID_produit="000204" ref_ID_conseiller="0010O00002AQAqQQAX" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="10/02/2006 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-98304" ref_ID_personne="0010O00002AR2zqQAD" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8egUAB" num_contrat="T1170713418" ref_ID_produit="000204" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="12/05/2002 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-102354" ref_ID_personne="0010O00002AR32mQAD" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8YoUAJ" num_contrat="T1171002662" ref_ID_produit="000204" ref_ID_conseiller="0010O00002AQAqoQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="07/04/2006 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-111496" ref_ID_personne="0010O00002AR2nIQAT" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8cVUAR" num_contrat="T1171002697" ref_ID_produit="000204" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="14/04/2006 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-99954" ref_ID_personne="0010O00002AR2xjQAD" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8K5UAJ" num_contrat="T1170717643" ref_ID_produit="000204" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="10/11/2003 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-112957" ref_ID_personne="0010O00002AR2EmQAL" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8KDUAZ" num_contrat="T1171001386" ref_ID_produit="000204" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="12/04/2005 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-113017" ref_ID_personne="0010O00002AR2F6QAL" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8PbUAJ" num_contrat="T1171001394" ref_ID_produit="000204" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="29/04/2005 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-111757" ref_ID_personne="0010O00002AR2OGQA1" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8N6UAJ" num_contrat="T1171001071" ref_ID_produit="000204" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="11/01/2005 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-112243" ref_ID_personne="0010O00002AR2H5QAL" code_role="S" />
+            <role ID_role="SS-113998" ref_ID_personne="0010O00002AR2IlQAL" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8cPUAR" num_contrat="T1171001143" ref_ID_produit="000204" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="02/02/2005 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-98862" ref_ID_personne="0010O00002AR2xaQAD" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8KGUAZ" num_contrat="T1171002019" ref_ID_produit="000204" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="11/11/2005 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-112813" ref_ID_personne="0010O00002AR2FIQA1" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8RiUAJ" num_contrat="T1171000702" ref_ID_produit="000204" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="20/07/2004 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-118456" ref_ID_personne="0010O00002AR2VZQA1" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8RjUAJ" num_contrat="T1171000703" ref_ID_produit="000204" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="20/07/2004 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-118453" ref_ID_personne="0010O00002AR2VaQAL" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8dCUAR" num_contrat="T1171000705" ref_ID_produit="000204" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="21/07/2004 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-97518" ref_ID_personne="0010O00002AR2z7QAD" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8SvUAJ" num_contrat="T1171000388" ref_ID_produit="000204" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="04/03/2004 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-98148" ref_ID_personne="0010O00002AR2ZKQA1" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8euUAB" num_contrat="T1171000350" ref_ID_produit="000204" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="05/03/2004 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-102282" ref_ID_personne="0010O00002AR33BQAT" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8d3UAB" num_contrat="T1170717650" ref_ID_produit="000204" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="07/11/2003 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-97320" ref_ID_personne="0010O00002AR2yrQAD" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8SwUAJ" num_contrat="T1171000859" ref_ID_produit="000204" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="13/10/2004 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-98088" ref_ID_personne="0010O00002AR2ZLQA1" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8akUAB" num_contrat="T1171000909" ref_ID_produit="000204" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="01/11/2004 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-116848" ref_ID_personne="0010O00002AR2sXQAT" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8RgUAJ" num_contrat="T1171000431" ref_ID_produit="000204" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="14/04/2004 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-118333" ref_ID_personne="0010O00002AR2VWQA1" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8UhUAJ" num_contrat="T1171000464" ref_ID_produit="000204" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="23/04/2004 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-101208" ref_ID_personne="0010O00002AR2dRQAT" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8TPUAZ" num_contrat="T1171000467" ref_ID_produit="000204" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="26/04/2004 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-102852" ref_ID_personne="0010O00002AR2aLQAT" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8gCUAR" num_contrat="T1171000524" ref_ID_produit="000204" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="10/05/2004 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-103050" ref_ID_personne="0010O00002AR36wQAD" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8hxUAB" num_contrat="T1170716260" ref_ID_produit="000204" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="29/03/2003 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-112312" ref_ID_personne="0010O00002AR3BOQA1" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8ejUAB" num_contrat="T1170715282" ref_ID_produit="000204" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="04/12/2002 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-102606" ref_ID_personne="0010O00002AR32SQAT" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8StUAJ" num_contrat="T1170713903" ref_ID_produit="000204" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="08/07/2002 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-98106" ref_ID_personne="0010O00002AR1yTQAT" code_role="S" />
+            <role ID_role="SS-98130" ref_ID_personne="0010O00002AR1yUQAT" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8eiUAB" num_contrat="T1170714015" ref_ID_produit="000204" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="19/07/2002 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-102672" ref_ID_personne="0010O00002AR32oQAD" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8M7UAJ" num_contrat="T1170713584" ref_ID_produit="000204" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="19/06/2002 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-113920" ref_ID_personne="0010O00002AR2I9QAL" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8JtUAJ" num_contrat="T1170713695" ref_ID_produit="000204" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="22/06/2002 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-102648" ref_ID_personne="0010O00002AR22xQAD" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8emUAB" num_contrat="T1170716425" ref_ID_produit="000204" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="10/04/2003 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-97818" ref_ID_personne="0010O00002AR1zYQAT" code_role="S" />
+            <role ID_role="SS-97782" ref_ID_personne="0010O00002AR1zXQAT" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8XyUAJ" num_contrat="T1170716344" ref_ID_produit="000204" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="10/04/2003 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-110419" ref_ID_personne="0010O00002AR2lfQAD" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8Y0UAJ" num_contrat="T1170716405" ref_ID_produit="000204" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="15/04/2003 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-110548" ref_ID_personne="0010O00002AR2lgQAD" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8Y1UAJ" num_contrat="T1170716454" ref_ID_produit="000204" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="20/04/2003 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-110506" ref_ID_personne="0010O00002AR2lhQAD" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8aQUAR" num_contrat="T1170716122" ref_ID_produit="000204" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="22/03/2003 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-117265" ref_ID_personne="0010O00002AR2rqQAD" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8aPUAR" num_contrat="T1170716121" ref_ID_produit="000204" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="22/03/2003 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-117166" ref_ID_personne="0010O00002AR2rpQAD" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8UeUAJ" num_contrat="T1171000194" ref_ID_produit="000204" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="17/01/2004 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-101868" ref_ID_personne="0010O00002AR2dJQAT" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8UfUAJ" num_contrat="T1171000191" ref_ID_produit="000204" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="17/01/2004 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-101850" ref_ID_personne="0010O00002AR2dKQAT" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8MYUAZ" num_contrat="T1171000209" ref_ID_produit="000204" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="18/01/2004 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-114079" ref_ID_personne="0010O00002AR2IoQAL" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8YEUAZ" num_contrat="T1171000215" ref_ID_produit="000204" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="21/01/2004 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-109627" ref_ID_personne="0010O00002AR2lyQAD" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8hzUAB" num_contrat="T1170716838" ref_ID_produit="000204" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="11/06/2003 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-112843" ref_ID_personne="0010O00002AR3BnQAL" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8TKUAZ" num_contrat="T1170717366" ref_ID_produit="000204" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="12/08/2003 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-100974" ref_ID_personne="0010O00002AR2beQAD" code_role="S" />
+            <role ID_role="SS-100938" ref_ID_personne="0010O00002AR2bdQAD" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8MUUAZ" num_contrat="T1171000113" ref_ID_produit="000204" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="18/12/2003 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-114103" ref_ID_personne="0010O00002AR2IgQAL" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8MVUAZ" num_contrat="T1171000112" ref_ID_produit="000204" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="18/12/2003 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-114196" ref_ID_personne="0010O00002AR2IhQAL" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8MWUAZ" num_contrat="T1171000119" ref_ID_produit="000204" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="26/12/2003 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-113929" ref_ID_personne="0010O00002AR2IlQAL" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8K7UAJ" num_contrat="T1171000130" ref_ID_produit="000204" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="30/12/2003 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-112471" ref_ID_personne="0010O00002AR2EjQAL" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8epUAB" num_contrat="T1171000141" ref_ID_produit="000204" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="30/12/2003 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-101976" ref_ID_personne="0010O00002AR336QAD" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8d7UAB" num_contrat="T1171000230" ref_ID_produit="000204" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="14/01/2004 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-98490" ref_ID_personne="0010O00002AR2yzQAD" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa2ghUAB" num_contrat="T1040710617" ref_ID_produit="000200" ref_ID_conseiller="0010O00002AQAqoQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="01/09/2001 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-97645" ref_ID_personne="0010O00002AR4EnQAL" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa2gkUAB" num_contrat="T1040711511" ref_ID_produit="000200" ref_ID_conseiller="0010O00002AQAqoQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="29/11/2001 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-99253" ref_ID_personne="0010O00002AR4FxQAL" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa2sMUAR" num_contrat="T1040713820" ref_ID_produit="000200" ref_ID_conseiller="0010O00002AQAqQQAX" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="03/07/2002 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-109339" ref_ID_personne="0010O00002AR4JWQA1" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa2sKUAR" num_contrat="T0131000049" ref_ID_produit="000201" ref_ID_conseiller="0010O00002AQAqQQAX" code_regime_fiscal="ASV" date_situation="31/10/2018 00:00:00" date_effet_contrat="18/04/2001 00:00:00" code_etat_contrat="CLO">
+          <roles>
+            <role ID_role="SS-114685" ref_ID_personne="0010O00002AR3PUQA1" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa2sIUAR" num_contrat="T0131000044" ref_ID_produit="000201" ref_ID_conseiller="0010O00002AQAqQQAX" code_regime_fiscal="ASV" date_situation="31/10/2018 00:00:00" date_effet_contrat="25/05/2000 00:00:00" code_etat_contrat="CLO">
+          <roles>
+            <role ID_role="SS-114343" ref_ID_personne="0010O00002AR3PPQA1" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa2sLUAR" num_contrat="T0131000024" ref_ID_produit="000201" ref_ID_conseiller="0010O00002AQAqQQAX" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="05/12/2003 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-114871" ref_ID_personne="0010O00002AR3O4QAL" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa2ckUAB" num_contrat="T1040705553" ref_ID_produit="000200" ref_ID_conseiller="0010O00002AQAqLQAX" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="30/08/2000 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-102703" ref_ID_personne="0010O00002AR48zQAD" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa2B7UAJ" num_contrat="T1040705639" ref_ID_produit="000200" ref_ID_conseiller="0012000001567cZAAQ" code_regime_fiscal="ASV" date_situation="31/10/2018 00:00:00" date_effet_contrat="07/09/2000 00:00:00" code_etat_contrat="CLO">
+          <roles>
+            <role ID_role="SS-103207" ref_ID_personne="0010O00002AR493QAD" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa2cnUAB" num_contrat="T1040706878" ref_ID_produit="000200" ref_ID_conseiller="0010O00002AQAqLQAX" code_regime_fiscal="ASV" date_situation="31/10/2018 00:00:00" date_effet_contrat="21/11/2000 00:00:00" code_etat_contrat="CLO">
+          <roles>
+            <role ID_role="SS-100223" ref_ID_personne="0010O00002ARPx0QAH" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa2ctUAB" num_contrat="T1040707028" ref_ID_produit="000200" ref_ID_conseiller="0010O00002AQAqLQAX" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="06/12/2000 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-117520" ref_ID_personne="0010O00002AR3K1QAL" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa2cwUAB" num_contrat="T1040707597" ref_ID_produit="000200" ref_ID_conseiller="0010O00002AQAqLQAX" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="29/12/2000 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-104794" ref_ID_personne="0010O00002AR4BpQAL" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa2cvUAB" num_contrat="T1040709775" ref_ID_produit="000200" ref_ID_conseiller="0010O00002AQAqLQAX" code_regime_fiscal="ASV" date_situation="31/10/2018 00:00:00" date_effet_contrat="11/01/2001 00:00:00" code_etat_contrat="CLO">
+          <roles>
+            <role ID_role="SS-98563" ref_ID_personne="0010O00002AR4DpQAL" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa2gjUAB" num_contrat="T1041001890" ref_ID_produit="000200" ref_ID_conseiller="0010O00002AQAqoQAH" code_regime_fiscal="ASV" date_situation="04/01/2019 00:00:00" date_effet_contrat="08/07/1993 00:00:00" code_etat_contrat="CLO">
+          <roles>
+            <role ID_role="SS-111976" ref_ID_personne="0010O00002AR3cjQAD" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa2cjUAB" num_contrat="T1040184983" ref_ID_produit="000200" ref_ID_conseiller="0010O00002AQAqLQAX" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="30/05/1998 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-99643" ref_ID_personne="0010O00002AR3xGQAT" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa2coUAB" num_contrat="T1040192434" ref_ID_produit="000200" ref_ID_conseiller="0010O00002AQAqLQAX" code_regime_fiscal="ASV" date_situation="31/10/2018 00:00:00" date_effet_contrat="15/10/1999 00:00:00" code_etat_contrat="CLO">
+          <roles>
+            <role ID_role="SS-99965" ref_ID_personne="0010O00002ARPvKQAX" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa2cpUAB" num_contrat="T1040192435" ref_ID_produit="000200" ref_ID_conseiller="0010O00002AQAqLQAX" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="15/10/1999 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="NP-1024" ref_ID_personne="0010O00002No2IFQAZ" code_role="N" />
+            <role ID_role="US-842" ref_ID_personne="0010O00002AR4BpQAL" code_role="U" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa2cqUAB" num_contrat="T1040192437" ref_ID_produit="000200" ref_ID_conseiller="0010O00002AQAqLQAX" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="15/10/1999 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="NP-1026" ref_ID_personne="0010O00002No2G6QAJ" code_role="N" />
+            <role ID_role="US-841" ref_ID_personne="0010O00002AR4BpQAL" code_role="U" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa2crUAB" num_contrat="T1040192439" ref_ID_produit="000200" ref_ID_conseiller="0010O00002AQAqLQAX" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="15/10/1999 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="NP-1027" ref_ID_personne="0010O00002No2FlQAJ" code_role="N" />
+            <role ID_role="US-840" ref_ID_personne="0010O00002AR4BpQAL" code_role="U" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa2clUAB" num_contrat="T1040180809" ref_ID_produit="000200" ref_ID_conseiller="0010O00002AQAqLQAX" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="04/07/1997 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-103897" ref_ID_personne="0010O00002AR3u9QAD" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa2cuUAB" num_contrat="T1040185429" ref_ID_produit="000200" ref_ID_conseiller="0010O00002AQAqLQAX" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="29/06/1998 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-97932" ref_ID_personne="0010O00002AR31VQAT" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa2cmUAB" num_contrat="T1040185431" ref_ID_produit="000200" ref_ID_conseiller="0010O00002AQAqLQAX" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="06/07/1998 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-99727" ref_ID_personne="0010O00002AR3xWQAT" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa2glUAB" num_contrat="T1041002467" ref_ID_produit="000200" ref_ID_conseiller="0010O00002AQAqoQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="05/04/1990 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-110854" ref_ID_personne="0010O00002AR3i3QAD" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa2sHUAR" num_contrat="T1041001460" ref_ID_produit="000200" ref_ID_conseiller="0010O00002AQAqQQAX" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="28/06/1990 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-108283" ref_ID_personne="0010O00002AR3YgQAL" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa2giUAB" num_contrat="T1040713427" ref_ID_produit="000200" ref_ID_conseiller="0010O00002AQAqoQAH" code_regime_fiscal="ASV" date_situation="31/10/2018 00:00:00" date_effet_contrat="29/06/1990 00:00:00" code_etat_contrat="CLO">
+          <roles>
+            <role ID_role="SS-107776" ref_ID_personne="0010O00002AR4IlQAL" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa2B1UAJ" num_contrat="T1040715613" ref_ID_produit="000200" ref_ID_conseiller="0012000001567cZAAQ" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="09/01/2003 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-105166" ref_ID_personne="0010O00002AR4MOQA1" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa2sOUAR" num_contrat="T1040715652" ref_ID_produit="000200" ref_ID_conseiller="0010O00002AQAqQQAX" code_regime_fiscal="ASV" date_situation="31/10/2018 00:00:00" date_effet_contrat="16/01/2003 00:00:00" code_etat_contrat="CLO">
+          <roles>
+            <role ID_role="SS-106798" ref_ID_personne="0010O00002AR4MSQA1" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa2sPUAR" num_contrat="T1040715826" ref_ID_produit="000200" ref_ID_conseiller="0010O00002AQAqQQAX" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="14/02/2003 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-105202" ref_ID_personne="0010O00002AR4MmQAL" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa2AzUAJ" num_contrat="T1040714505" ref_ID_produit="000200" ref_ID_conseiller="0012000001567cZAAQ" code_regime_fiscal="ASV" date_situation="31/12/2018 00:00:00" date_effet_contrat="11/09/2002 00:00:00" code_etat_contrat="CLO">
+          <roles>
+            <role ID_role="SS-108604" ref_ID_personne="0010O00002AR4KcQAL" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa2sJUAR" num_contrat="T1041000253" ref_ID_produit="000200" ref_ID_conseiller="0010O00002AQAqQQAX" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="21/11/2003 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-115060" ref_ID_personne="0010O00002AR3NrQAL" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa2ggUAB" num_contrat="T1041000102" ref_ID_produit="000200" ref_ID_conseiller="0010O00002AQAqoQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="20/07/1993 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-149026" ref_ID_personne="0010O00002AR2a4QAD" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa2sNUAR" num_contrat="T1040713491" ref_ID_produit="000200" ref_ID_conseiller="0010O00002AQAqQQAX" code_regime_fiscal="ASV" date_situation="31/10/2018 00:00:00" date_effet_contrat="22/05/2002 00:00:00" code_etat_contrat="CLO">
+          <roles>
+            <role ID_role="SS-107611" ref_ID_personne="0010O00002AR4IyQAL" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa2B5UAJ" num_contrat="T1040713796" ref_ID_produit="000200" ref_ID_conseiller="0012000001567cZAAQ" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="03/07/2002 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-109477" ref_ID_personne="0010O00002AR4JQQA1" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa2gmUAB" num_contrat="T1040714792" ref_ID_produit="000200" ref_ID_conseiller="0010O00002AQAqoQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="16/10/2002 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-105928" ref_ID_personne="0010O00002AR4LAQA1" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa2sGUAR" num_contrat="T1040714986" ref_ID_produit="000200" ref_ID_conseiller="0010O00002AQAqQQAX" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="14/11/2002 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-105019" ref_ID_personne="0010O00002AR4LRQA1" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa2sUUAR" num_contrat="T1040715038" ref_ID_produit="000200" ref_ID_conseiller="0010O00002AQAqQQAX" code_regime_fiscal="ASV" date_situation="31/10/2018 00:00:00" date_effet_contrat="22/11/2002 00:00:00" code_etat_contrat="CLO">
+          <roles>
+            <role ID_role="SS-105865" ref_ID_personne="0010O00002AR4LWQA1" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa2BAUAZ" num_contrat="T1040715367" ref_ID_produit="000200" ref_ID_conseiller="0012000001567cZAAQ" code_regime_fiscal="ASV" date_situation="31/10/2018 00:00:00" date_effet_contrat="24/12/2002 00:00:00" code_etat_contrat="CLO">
+          <roles>
+            <role ID_role="SS-104920" ref_ID_personne="0010O00002AR4M1QAL" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa2sQUAR" num_contrat="T1041001412" ref_ID_produit="000200" ref_ID_conseiller="0010O00002AQAqQQAX" code_regime_fiscal="ASV" date_situation="31/10/2018 00:00:00" date_effet_contrat="25/03/2005 00:00:00" code_etat_contrat="CLO">
+          <roles>
+            <role ID_role="SS-108256" ref_ID_personne="0010O00002AR3YBQA1" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa2AyUAJ" num_contrat="T1041000176" ref_ID_produit="000200" ref_ID_conseiller="0012000001567cZAAQ" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="19/09/2003 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-118057" ref_ID_personne="0010O00002AR3NCQA1" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa2sTUAR" num_contrat="T1041000232" ref_ID_produit="000200" ref_ID_conseiller="0010O00002AQAqQQAX" code_regime_fiscal="ASV" date_situation="31/10/2018 00:00:00" date_effet_contrat="31/10/2003 00:00:00" code_etat_contrat="CLO">
+          <roles>
+            <role ID_role="SS-115027" ref_ID_personne="0010O00002AR3NjQAL" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa2sRUAR" num_contrat="T1041000339" ref_ID_produit="000200" ref_ID_conseiller="0010O00002AQAqQQAX" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="23/01/2004 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-114949" ref_ID_personne="0010O00002AR3ObQAL" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa2sSUAR" num_contrat="T1041000340" ref_ID_produit="000200" ref_ID_conseiller="0010O00002AQAqQQAX" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="23/01/2004 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-115099" ref_ID_personne="0010O00002AR3ObQAL" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa2AwUAJ" num_contrat="T1041000761" ref_ID_produit="000200" ref_ID_conseiller="0012000001567cZAAQ" code_regime_fiscal="ASV" date_situation="31/10/2018 00:00:00" date_effet_contrat="17/09/2004 00:00:00" code_etat_contrat="CLO">
+          <roles>
+            <role ID_role="SS-103627" ref_ID_personne="0010O00002AR3SOQA1" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa2B3UAJ" num_contrat="T1041002025" ref_ID_produit="000200" ref_ID_conseiller="0012000001567cZAAQ" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="28/10/2005 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-113287" ref_ID_personne="0010O00002AR3duQAD" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa2B2UAJ" num_contrat="T1041002024" ref_ID_produit="000200" ref_ID_conseiller="0012000001567cZAAQ" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="28/10/2005 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-113329" ref_ID_personne="0010O00002AR3dtQAD" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa2gfUAB" num_contrat="T1041000993" ref_ID_produit="000200" ref_ID_conseiller="0010O00002AQAqoQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="10/12/2004 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-104098" ref_ID_personne="0010O00002AR3UWQA1" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa2AxUAJ" num_contrat="T1041001360" ref_ID_produit="000200" ref_ID_conseiller="0012000001567cZAAQ" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="11/03/2005 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-99481" ref_ID_personne="0010O00002AR3XgQAL" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa2B6UAJ" num_contrat="T1041001388" ref_ID_produit="000200" ref_ID_conseiller="0012000001567cZAAQ" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="18/03/2005 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-107938" ref_ID_personne="0010O00002AR3XzQAL" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa2B8UAJ" num_contrat="T1041001413" ref_ID_produit="000200" ref_ID_conseiller="0012000001567cZAAQ" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="25/03/2005 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-108352" ref_ID_personne="0010O00002AR3YCQA1" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa2B9UAJ" num_contrat="T1041002094" ref_ID_produit="000200" ref_ID_conseiller="0012000001567cZAAQ" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="25/11/2005 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-113449" ref_ID_personne="0010O00002AR3eVQAT" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa2flUAB" num_contrat="T1041002316" ref_ID_produit="000200" ref_ID_conseiller="0010O00002AQAqoQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="27/01/2006 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-149040" ref_ID_personne="0010O00002AR2nIQAT" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa2geUAB" num_contrat="T1041001920" ref_ID_produit="000200" ref_ID_conseiller="0010O00002AQAqoQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="23/09/2005 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-113692" ref_ID_personne="0010O00002AR3d0QAD" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa2gbUAB" num_contrat="T1041001980" ref_ID_produit="000200" ref_ID_conseiller="0010O00002AQAqoQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="14/10/2005 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-113086" ref_ID_personne="0010O00002AR3dVQAT" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa2gcUAB" num_contrat="T1041001981" ref_ID_produit="000200" ref_ID_conseiller="0010O00002AQAqoQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="14/10/2005 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-113194" ref_ID_personne="0010O00002AR3dUQAT" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa2gdUAB" num_contrat="T1041001982" ref_ID_produit="000200" ref_ID_conseiller="0010O00002AQAqoQAH" code_regime_fiscal="ASV" date_situation="10/04/2019 00:00:00" date_effet_contrat="14/10/2005 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-113158" ref_ID_personne="0010O00002AR3dXQAT" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G2000000pHUioEAG" num_contrat="012007402" ref_ID_produit="000019" ref_ID_conseiller="0012000001567cZAAQ" code_regime_fiscal="ASV" date_situation="12/04/2019 00:00:00" date_effet_contrat="29/10/2010 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-5491" ref_ID_personne="00120000019Oy6iAAC" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G2000000pHUj8EAG" num_contrat="012007422" ref_ID_produit="000019" ref_ID_conseiller="0012000001567cZAAQ" code_regime_fiscal="ASV" date_situation="12/04/2019 00:00:00" date_effet_contrat="04/11/2010 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-7210" ref_ID_personne="00120000019OzIIAA0" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G2000000pHUkSEAW" num_contrat="012007506" ref_ID_produit="000019" ref_ID_conseiller="0012000001567cZAAQ" code_regime_fiscal="ASV" date_situation="12/04/2019 00:00:00" date_effet_contrat="16/11/2010 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-6574" ref_ID_personne="00120000019Oy3rAAC" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G2000000pHUkmEAG" num_contrat="012007526" ref_ID_produit="000019" ref_ID_conseiller="0012000001567cZAAQ" code_regime_fiscal="ASV" date_situation="12/04/2019 00:00:00" date_effet_contrat="24/11/2010 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-7450" ref_ID_personne="00120000019OyEPAA0" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G2000000pHUlZEAW" num_contrat="012007576" ref_ID_produit="000019" ref_ID_conseiller="0012000001567cZAAQ" code_regime_fiscal="ASV" date_situation="12/04/2019 00:00:00" date_effet_contrat="30/11/2010 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-6745" ref_ID_personne="00120000019OyB4AAK" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G2000000pHUmcEAG" num_contrat="012007642" ref_ID_produit="000019" ref_ID_conseiller="0012000001567cZAAQ" code_regime_fiscal="ASV" date_situation="12/04/2019 00:00:00" date_effet_contrat="06/12/2010 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-13577" ref_ID_personne="00120000019P07tAAC" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G2000000pHXGyEAO" num_contrat="655000033" ref_ID_produit="000035" ref_ID_conseiller="0012000001567cZAAQ" code_regime_fiscal="ASV" date_situation="12/07/2012 00:00:00" date_effet_contrat="24/01/2007 00:00:00" code_etat_contrat="CLO">
+          <roles>
+            <role ID_role="SS-2490" ref_ID_personne="00120000019Oy5EAAS" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G2000000pHWVwEAO" num_contrat="088000793" ref_ID_produit="000039" ref_ID_conseiller="0012000001567cZAAQ" code_regime_fiscal="ASV" date_situation="12/04/2019 00:00:00" date_effet_contrat="23/07/2010 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-16386" ref_ID_personne="00120000019OuBwAAK" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G2000000pHUnAEAW" num_contrat="012007677" ref_ID_produit="000019" ref_ID_conseiller="0012000001567cZAAQ" code_regime_fiscal="ASV" date_situation="12/04/2019 00:00:00" date_effet_contrat="16/12/2010 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-13883" ref_ID_personne="00120000019Oy1IAAS" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G2000000pHUoLEAW" num_contrat="012007750" ref_ID_produit="000019" ref_ID_conseiller="0012000001567cZAAQ" code_regime_fiscal="ASV" date_situation="23/04/2015 00:00:00" date_effet_contrat="17/12/2010 00:00:00" code_etat_contrat="CLO">
+          <roles>
+            <role ID_role="SS-12845" ref_ID_personne="00120000019OxzYAAS" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G2000000pHUUyEAO" num_contrat="012006526" ref_ID_produit="000019" ref_ID_conseiller="0012000001567cZAAQ" code_regime_fiscal="ASV" date_situation="12/04/2019 00:00:00" date_effet_contrat="07/04/2010 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-10298" ref_ID_personne="00120000019OwGcAAK" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G2000000pHUa4EAG" num_contrat="012006851" ref_ID_produit="000019" ref_ID_conseiller="0012000001567cZAAQ" code_regime_fiscal="ASV" date_situation="12/04/2019 00:00:00" date_effet_contrat="24/04/2014 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-8839" ref_ID_personne="00120000019Oz4zAAC" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G2000000pHWFOEA4" num_contrat="047000017" ref_ID_produit="000034" ref_ID_conseiller="0012000001567cZAAQ" code_regime_fiscal="ASV" date_situation="12/04/2019 00:00:00" date_effet_contrat="28/02/2006 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-14607" ref_ID_personne="00120000019Ouq4AAC" code_role="S" />
+            <role ID_role="SS-14604" ref_ID_personne="00120000019OuchAAC" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G2000000pHWFqEAO" num_contrat="047000049" ref_ID_produit="000034" ref_ID_conseiller="0012000001567cZAAQ" code_regime_fiscal="ASV" date_situation="12/04/2019 00:00:00" date_effet_contrat="07/07/2006 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-14724" ref_ID_personne="00120000019OxppAAC" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G20000012gJWTEA2" num_contrat="222900405" ref_ID_produit="000061" ref_ID_conseiller="0012000001567cZAAQ" code_regime_fiscal="ASV" date_situation="13/04/2019 00:00:00" date_effet_contrat="01/01/1900 00:00:00" code_etat_contrat="CLO">
+          <roles>
+            <role ID_role="SS-33247" ref_ID_personne="0012000001NJnbYAAT" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G2000000werEGEAY" num_contrat="B2A995234" ref_ID_produit="000147" ref_ID_conseiller="0012000001567cZAAQ" code_regime_fiscal="ASV" date_situation="12/04/2019 00:00:00" date_effet_contrat="14/04/2011 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-21518" ref_ID_personne="0012000001NJnbYAAT" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G2000000werEbEAI" num_contrat="B2A500112" ref_ID_produit="000148" ref_ID_conseiller="0012000001567cZAAQ" code_regime_fiscal="ASV" date_situation="12/04/2019 00:00:00" date_effet_contrat="20/11/2010 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-21652" ref_ID_personne="0012000001NJnVCAA1" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8WUUAZ" num_contrat="B6B100025" ref_ID_produit="000209" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="12/04/2019 00:00:00" date_effet_contrat="04/03/1999 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-113965" ref_ID_personne="0010O00002AR2ikQAD" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8U3UAJ" num_contrat="B6B000179" ref_ID_produit="000209" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="12/04/2019 00:00:00" date_effet_contrat="04/03/1999 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-101502" ref_ID_personne="0010O00002AR2cQQAT" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8U7UAJ" num_contrat="B6B000248" ref_ID_produit="000209" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="12/04/2019 00:00:00" date_effet_contrat="04/03/1999 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-101712" ref_ID_personne="0010O00002AR2cTQAT" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8U0UAJ" num_contrat="B6B100048" ref_ID_produit="000209" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="12/04/2019 00:00:00" date_effet_contrat="04/03/1999 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-101646" ref_ID_personne="0010O00002AR2cLQAT" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8USUAZ" num_contrat="B6B000664" ref_ID_produit="000209" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="12/04/2019 00:00:00" date_effet_contrat="02/01/2002 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-101556" ref_ID_personne="0010O00002AR2cmQAD" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8XiUAJ" num_contrat="B6B000619" ref_ID_produit="000209" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="12/04/2019 00:00:00" date_effet_contrat="13/04/2001 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-110494" ref_ID_personne="0010O00002AR2lHQAT" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8TAUAZ" num_contrat="B6B000343" ref_ID_produit="000209" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="12/04/2019 00:00:00" date_effet_contrat="16/06/1999 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-98430" ref_ID_personne="0010O00002AR2ZnQAL" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8XWUAZ" num_contrat="B6B000355" ref_ID_produit="000209" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="12/04/2019 00:00:00" date_effet_contrat="26/06/1999 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-110437" ref_ID_personne="0010O00002AR2kzQAD" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8eVUAR" num_contrat="B6B000524" ref_ID_produit="000209" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="12/04/2019 00:00:00" date_effet_contrat="13/06/2000 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-102000" ref_ID_personne="0010O00002AR32ZQAT" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8YjUAJ" num_contrat="B6B000954" ref_ID_produit="000209" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="21/11/2018 00:00:00" date_effet_contrat="06/12/2005 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-109885" ref_ID_personne="0010O00002AR2myQAD" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8c1UAB" num_contrat="B6B000314" ref_ID_produit="000209" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="12/04/2019 00:00:00" date_effet_contrat="22/03/1999 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-99000" ref_ID_personne="0010O00002AR2wkQAD" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8ftUAB" num_contrat="B6B000312" ref_ID_produit="000209" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="12/04/2019 00:00:00" date_effet_contrat="25/03/1999 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-103548" ref_ID_personne="0010O00002AR36HQAT" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8XVUAZ" num_contrat="B6B000315" ref_ID_produit="000209" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="12/04/2019 00:00:00" date_effet_contrat="27/03/1999 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-110473" ref_ID_personne="0010O00002AR2kyQAD" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8M0UAJ" num_contrat="B6B000587" ref_ID_produit="000209" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="12/04/2019 00:00:00" date_effet_contrat="03/01/2001 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-113794" ref_ID_personne="0010O00002AR2HoQAL" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8eZUAR" num_contrat="B6B000611" ref_ID_produit="000209" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="12/04/2019 00:00:00" date_effet_contrat="04/03/2001 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-97962" ref_ID_personne="0010O00002AR32eQAD" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8aHUAR" num_contrat="B6B000680" ref_ID_produit="000209" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="12/04/2019 00:00:00" date_effet_contrat="11/03/2002 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-117472" ref_ID_personne="0010O00002AR2rYQAT" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8LeUAJ" num_contrat="981000121" ref_ID_produit="000209" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="31/10/2018 00:00:00" date_effet_contrat="04/03/1999 00:00:00" code_etat_contrat="CLO">
+          <roles>
+            <role ID_role="SS-112273" ref_ID_personne="0010O00002AR2HAQA1" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8LkUAJ" num_contrat="B6B000178" ref_ID_produit="000209" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="12/04/2019 00:00:00" date_effet_contrat="04/03/1999 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-113887" ref_ID_personne="0010O00002AR2HFQA1" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8h2UAB" num_contrat="B6B000093" ref_ID_produit="000209" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="12/04/2019 00:00:00" date_effet_contrat="04/03/1999 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-100506" ref_ID_personne="0010O00002AR39MQAT" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8h3UAB" num_contrat="B6B000116" ref_ID_produit="000209" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="12/04/2019 00:00:00" date_effet_contrat="04/03/1999 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-100530" ref_ID_personne="0010O00002AR39NQAT" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8hkUAB" num_contrat="B6B000105" ref_ID_produit="000209" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="12/04/2019 00:00:00" date_effet_contrat="04/03/1999 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-112696" ref_ID_personne="0010O00002AR3BbQAL" code_role="S" />
+            <role ID_role="SS-98046" ref_ID_personne="0010O00002AR20QQAT" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8T9UAJ" num_contrat="B6B000308" ref_ID_produit="000209" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="12/04/2019 00:00:00" date_effet_contrat="20/03/1999 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-98268" ref_ID_personne="0010O00002AR2ZmQAL" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8ZyUAJ" num_contrat="B6B000187" ref_ID_produit="000209" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="12/04/2019 00:00:00" date_effet_contrat="04/03/1999 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-98418" ref_ID_personne="0010O00002AR1z6QAD" code_role="S" />
+            <role ID_role="SS-98394" ref_ID_personne="0010O00002AR1z5QAD" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8bxUAB" num_contrat="981000019" ref_ID_produit="000209" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="31/10/2018 00:00:00" date_effet_contrat="04/03/1999 00:00:00" code_etat_contrat="CLO">
+          <roles>
+            <role ID_role="SS-118681" ref_ID_personne="0010O00002AR2wfQAD" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8c0UAB" num_contrat="B6B000237" ref_ID_produit="000209" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="12/04/2019 00:00:00" date_effet_contrat="04/03/1999 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-99090" ref_ID_personne="0010O00002AR2wjQAD" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8bzUAB" num_contrat="981000236" ref_ID_produit="000209" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="31/10/2018 00:00:00" date_effet_contrat="04/03/1999 00:00:00" code_etat_contrat="CLO">
+          <roles>
+            <role ID_role="SS-99078" ref_ID_personne="0010O00002AR2wiQAD" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8eTUAR" num_contrat="B6B100055" ref_ID_produit="000209" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="12/04/2019 00:00:00" date_effet_contrat="04/03/1999 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-102576" ref_ID_personne="0010O00002AR32UQAT" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa8R2UAJ" num_contrat="B6B100031" ref_ID_produit="000209" ref_ID_conseiller="0010O00002AQApcQAH" code_regime_fiscal="ASV" date_situation="12/04/2019 00:00:00" date_effet_contrat="04/03/1999 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-97104" ref_ID_personne="0010O00002AR1yLQAT" code_role="S" />
+            <role ID_role="SS-97182" ref_ID_personne="0010O00002AR1yKQAT" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa4JeUAJ" num_contrat="0009947571001" ref_ID_produit="000225" ref_ID_conseiller="0010O00002AQArEQAX" code_regime_fiscal="ASV" date_situation="11/04/2019 00:00:00" date_effet_contrat="03/04/2007 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-99477" ref_ID_personne="0010O00002AR7bWQAT" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa7M3UAJ" num_contrat="0010055951001" ref_ID_produit="000225" ref_ID_conseiller="0010O00002AQArEQAX" code_regime_fiscal="ASV" date_situation="11/04/2019 00:00:00" date_effet_contrat="12/02/2011 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-115865" ref_ID_personne="0010O00002AR5AOQA1" code_role="S" />
+            <role ID_role="SS-115742" ref_ID_personne="0010O00002AR5APQA1" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa7VMUAZ" num_contrat="0010067577001" ref_ID_produit="000225" ref_ID_conseiller="0010O00002AQArEQAX" code_regime_fiscal="ASV" date_situation="11/04/2019 00:00:00" date_effet_contrat="22/06/2011 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-124365" ref_ID_personne="0010O00002AR8tmQAD" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa3mtUAB" num_contrat="0009917135001" ref_ID_produit="000225" ref_ID_conseiller="0010O00002AQArEQAX" code_regime_fiscal="ASV" date_situation="11/04/2019 00:00:00" date_effet_contrat="11/07/2005 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-97678" ref_ID_personne="0010O00002AR9PiQAL" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa3hgUAB" num_contrat="0009917118001" ref_ID_produit="000225" ref_ID_conseiller="0010O00002AQArEQAX" code_regime_fiscal="ASV" date_situation="11/04/2019 00:00:00" date_effet_contrat="11/07/2005 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-97498" ref_ID_personne="0010O00002AR9PjQAL" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa3muUAB" num_contrat="0009917136001" ref_ID_produit="000225" ref_ID_conseiller="0010O00002AQArEQAX" code_regime_fiscal="ASV" date_situation="11/04/2019 00:00:00" date_effet_contrat="11/07/2005 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-97444" ref_ID_personne="0010O00002AR9PkQAL" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa7UfUAJ" num_contrat="0010065546001" ref_ID_produit="000228" ref_ID_conseiller="0010O00002AQArEQAX" code_regime_fiscal="ASV" date_situation="11/04/2019 00:00:00" date_effet_contrat="02/06/2011 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-103827" ref_ID_personne="0010O00002AR7m2QAD" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa7UgUAJ" num_contrat="0010065546003" ref_ID_produit="000228" ref_ID_conseiller="0010O00002AQArEQAX" code_regime_fiscal="ASV" date_situation="11/04/2019 00:00:00" date_effet_contrat="02/06/2011 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-103839" ref_ID_personne="0010O00002AR7m2QAD" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa3oYUAR" num_contrat="0009919200001" ref_ID_produit="000225" ref_ID_conseiller="0010O00002AQArEQAX" code_regime_fiscal="ASV" date_situation="11/04/2019 00:00:00" date_effet_contrat="12/08/2005 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-113166" ref_ID_personne="0010O00002AR6bRQAT" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa3aPUAR" num_contrat="0009914219001" ref_ID_produit="000225" ref_ID_conseiller="0010O00002AQArEQAX" code_regime_fiscal="ASV" date_situation="11/04/2019 00:00:00" date_effet_contrat="09/05/2005 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-123371" ref_ID_personne="0010O00002AR84NQAT" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa3gFUAR" num_contrat="0009914988001" ref_ID_produit="000225" ref_ID_conseiller="0010O00002AQArEQAX" code_regime_fiscal="ASV" date_situation="11/04/2019 00:00:00" date_effet_contrat="23/05/2005 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-116982" ref_ID_personne="0010O00002AR6wFQAT" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa3gEUAR" num_contrat="0009914853001" ref_ID_produit="000225" ref_ID_conseiller="0010O00002AQArEQAX" code_regime_fiscal="ASV" date_situation="11/04/2019 00:00:00" date_effet_contrat="23/05/2005 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-117015" ref_ID_personne="0010O00002AR6wIQAT" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa3QoUAJ" num_contrat="0009913608001" ref_ID_produit="000225" ref_ID_conseiller="0010O00002AQArEQAX" code_regime_fiscal="ASV" date_situation="11/04/2019 00:00:00" date_effet_contrat="25/04/2005 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-106225" ref_ID_personne="0010O00002AR4nxQAD" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa7UeUAJ" num_contrat="0010065546002" ref_ID_produit="000228" ref_ID_conseiller="0010O00002AQArEQAX" code_regime_fiscal="ASV" date_situation="11/04/2019 00:00:00" date_effet_contrat="02/06/2011 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-103779" ref_ID_personne="0010O00002AR7m2QAD" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa5jGUAR" num_contrat="20563832" ref_ID_produit="000210" ref_ID_conseiller="0010O00002AQArEQAX" code_regime_fiscal="ASV" date_situation="12/04/2019 00:00:00" date_effet_contrat="24/03/2004 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-123649" ref_ID_personne="0010O00002AR8ePQAT" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa5SsUAJ" num_contrat="20563036" ref_ID_produit="000210" ref_ID_conseiller="0010O00002AQArEQAX" code_regime_fiscal="ASV" date_situation="12/04/2019 00:00:00" date_effet_contrat="20/05/2003 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-106219" ref_ID_personne="0010O00002AR4nxQAD" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa5SrUAJ" num_contrat="20563178" ref_ID_produit="000210" ref_ID_conseiller="0010O00002AQArEQAX" code_regime_fiscal="ASV" date_situation="12/04/2019 00:00:00" date_effet_contrat="14/08/2003 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-116724" ref_ID_personne="0010O00002AR7EeQAL" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa5VPUAZ" num_contrat="20562555" ref_ID_produit="000210" ref_ID_conseiller="0010O00002AQArEQAX" code_regime_fiscal="ASV" date_situation="12/04/2019 00:00:00" date_effet_contrat="27/09/2002 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-97539" ref_ID_personne="0010O00002AR7B1QAL" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa6CFUAZ" num_contrat="40560108" ref_ID_produit="000219" ref_ID_conseiller="0010O00002AQArEQAX" code_regime_fiscal="ASV" date_situation="12/04/2019 00:00:00" date_effet_contrat="29/05/2006 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-110066" ref_ID_personne="0010O00002AR5FzQAL" code_role="S" />
+          </roles>
+        </contrat>
+        <contrat ID_contrat="a0G0O00001Aa6CSUAZ" num_contrat="40560128" ref_ID_produit="000219" ref_ID_conseiller="0010O00002AQArEQAX" code_regime_fiscal="ASV" date_situation="12/04/2019 00:00:00" date_effet_contrat="06/07/2006 00:00:00" code_etat_contrat="ENC">
+          <roles>
+            <role ID_role="SS-109667" ref_ID_personne="0010O00002AR5FyQAL" code_role="S" />
+          </roles>
+        </contrat>
+      </contrats>
+    </destinataire>
+  </donnee_reguliere>
+  <donnee_specifique>
+    <produit ID_produit="000196" ref_ID_fournisseur="000012" code_type_produit="AVE" code_regime_fiscal="ASV" designation="DOUBLE STRATEGIE" flag_multisupport="OUI" />
+    <produit ID_produit="000197" ref_ID_fournisseur="000012" code_type_produit="AVE" code_regime_fiscal="ASV" designation="SELECTION MERIDIEN" flag_multisupport="OUI" />
+    <produit ID_produit="000200" ref_ID_fournisseur="000012" code_type_produit="AVE" code_regime_fiscal="ASV" designation="STRATEGIE PATRIMOINE" flag_multisupport="OUI" />
+    <produit ID_produit="000353" ref_ID_fournisseur="000012" code_type_produit="AVE" code_regime_fiscal="ASV" designation="OLYMPIA MULTI-PERSPECTIVES 2" flag_multisupport="OUI" />
+    <produit ID_produit="000354" ref_ID_fournisseur="000012" code_type_produit="CAP" code_regime_fiscal="ASV" designation="OLYMPIA PEA CAPI" flag_multisupport="NON" />
+    <produit ID_produit="000350" ref_ID_fournisseur="000012" code_type_produit="AVE" code_regime_fiscal="ASV" designation="OLYMPIA MULTISELECTION VIE" flag_multisupport="OUI" />
+    <produit ID_produit="000352" ref_ID_fournisseur="000012" code_type_produit="AVE" code_regime_fiscal="ASV" designation="OLYMPIA MULTI-PERSPECTIVES" flag_multisupport="OUI" />
+    <produit ID_produit="000253" ref_ID_fournisseur="000012" code_type_produit="AVE" code_regime_fiscal="ASV" designation="VEGA STRATEGIE DYNAMIQUE" flag_multisupport="OUI" />
+    <produit ID_produit="000204" ref_ID_fournisseur="000012" code_type_produit="AVE" code_regime_fiscal="ASV" designation="VEGA MAXI" flag_multisupport="OUI" />
+    <produit ID_produit="000201" ref_ID_fournisseur="000012" code_type_produit="CAP" code_regime_fiscal="ASV" designation="STRATEGIE PATRIMOINE CAPI" flag_multisupport="NON" />
+    <produit ID_produit="000019" ref_ID_fournisseur="000195" code_type_produit="AVE" code_regime_fiscal="ASV" designation="PANTHEA" flag_multisupport="OUI" />
+    <produit ID_produit="000035" ref_ID_fournisseur="000195" code_type_produit="CAP" code_regime_fiscal="ASV" designation="PREDILEXIA CAPI" flag_multisupport="NON" />
+    <produit ID_produit="000039" ref_ID_fournisseur="000195" code_type_produit="CAP" code_regime_fiscal="ASV" designation="NORTIA CAPI +" flag_multisupport="NON" />
+    <produit ID_produit="000034" ref_ID_fournisseur="000195" code_type_produit="AVE" code_regime_fiscal="ASV" designation="PREDILEXIA VIE" flag_multisupport="OUI" />
+    <produit ID_produit="000061" ref_ID_fournisseur="000294" code_type_produit="CAP" code_regime_fiscal="ASV" designation="PRIVATE CAPI" flag_multisupport="NON" />
+    <produit ID_produit="000147" ref_ID_fournisseur="000460" code_type_produit="CAP" code_regime_fiscal="ASV" designation="CNP PATRIMOINE CAPI" flag_multisupport="NON" />
+    <produit ID_produit="000148" ref_ID_fournisseur="000460" code_type_produit="CAP" code_regime_fiscal="ASV" designation="CNP PATRIMOINE CAPITALISATION" flag_multisupport="NON" />
+    <produit ID_produit="000209" ref_ID_fournisseur="000460" code_type_produit="AVE" code_regime_fiscal="ASV" designation="SELEXANCE 1818" flag_multisupport="OUI" />
+    <produit ID_produit="000225" ref_ID_fournisseur="000482" code_type_produit="AVE" code_regime_fiscal="ASV" designation="SELECTION OXYGENE" flag_multisupport="OUI" />
+    <produit ID_produit="000228" ref_ID_fournisseur="000482" code_type_produit="CAP" code_regime_fiscal="ASV" designation="SELECTION OXYGENE CAPITALISATION" flag_multisupport="NON" />
+    <produit ID_produit="000210" ref_ID_fournisseur="000483" code_type_produit="AVE" code_regime_fiscal="ASV" designation="SELECTION MEZZODI" flag_multisupport="OUI" />
+    <produit ID_produit="000219" ref_ID_fournisseur="000483" code_type_produit="AVE" code_regime_fiscal="ASV" designation="SELECTION R FIDELITE" flag_multisupport="OUI" />
+    <fournisseur_consomme ID_fournisseur="000012" Libelle_court="LMP" />
+    <fournisseur_consomme ID_fournisseur="000195" Libelle_court="AEP" />
+    <fournisseur_consomme ID_fournisseur="000294" Libelle_court="SPI" />
+    <fournisseur_consomme ID_fournisseur="000460" Libelle_court="CNP" />
+    <fournisseur_consomme ID_fournisseur="000482" Libelle_court="SWL" />
+    <fournisseur_consomme ID_fournisseur="000483" Libelle_court="GNL" />
+    <intermediaire_consomme ID_intermediaire="0012000001567cZAAQ" code_interne1="428" denomination="ASCOT FINANCE" />
+    <intermediaire_consomme ID_intermediaire="0010O00002AQAqoQAH" code_interne1="3136" denomination="LA CITE DU PATRIMOINE" />
+    <intermediaire_consomme ID_intermediaire="0010O00002AQAqLQAX" code_interne1="3132" denomination="PATRIMOINE CONSEIL WATINE EMMANUEL" />
+    <intermediaire_consomme ID_intermediaire="0010O00002AQApcQAH" code_interne1="3052" denomination="HAUSSMANN GESTION PRIVEE" />
+    <intermediaire_consomme ID_intermediaire="0010O00002AQAqQQAX" code_interne1="3140" denomination="ROUGERIE FINANCES" />
+    <intermediaire_consomme ID_intermediaire="0010O00002AQArEQAX" code_interne1="3175" denomination="FRANCOIS NICOLAS" />
+    <intermediaire_consomme ID_intermediaire="2" code_interne1="2" denomination="C2I" />
+  </donnee_specifique>
+</FichierPenelop>

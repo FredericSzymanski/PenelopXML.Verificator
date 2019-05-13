@@ -1,0 +1,25 @@
+2019-05-02 16:37:16.199 +02:00 [ERR] Could not find file 'C:\Users\fszymanski\source\repos\CompareXML\CompareXML\bin\Release\netcoreapp2.2\win10-x64\publish\test.xml'.
+2019-05-02 16:38:12.029 +02:00 [INF] DEBUT LOG 18815c48-1965-4a3b-bff0-713aa71ace11
+2019-05-02 16:38:12.055 +02:00 [INF] VALEUR DU OLD : compareXML.xml
+2019-05-02 16:38:12.056 +02:00 [INF] VALEUR DU NEW : compareXML.xml
+2019-05-02 16:38:12.062 +02:00 [INF] Nombre de personnes dans le OLD : 0
+2019-05-02 16:38:12.062 +02:00 [INF] Nombre de personnes dans le NEW : 0
+2019-05-02 16:38:12.073 +02:00 [INF] Nombre de contrats dans le OLD : 0
+2019-05-02 16:38:12.073 +02:00 [INF] Nombre de contrats dans le NEW : 0
+2019-05-02 16:38:12.082 +02:00 [INF] Nombre de fournisseurs consommes dans le OLD : 0
+2019-05-02 16:38:12.089 +02:00 [INF] Nombre de fournisseurs consommes dans le NEW : 0
+2019-05-02 16:38:12.092 +02:00 [INF] Nombre d'intermediaires consommes dans le OLD : 0
+2019-05-02 16:38:12.101 +02:00 [INF] Nombre d'intermediaires consommes dans le NEW : 0
+2019-05-02 16:38:12.113 +02:00 [INF] Nombre de support info gen consomme dans le OLD : 0
+2019-05-02 16:38:12.114 +02:00 [INF] Nombre de support info gen consomme dans le NEW : 0
+2019-05-02 16:38:12.125 +02:00 [INF] Nombre de produits dans le OLD : 0
+2019-05-02 16:38:12.134 +02:00 [INF] Nombre de produits dans le NEW : 0
+2019-05-02 16:38:12.148 +02:00 [INF] PAS DE PERSONNE MANQUANTE.
+2019-05-02 16:38:12.153 +02:00 [INF] PAS DE CONTRAT MANQUANT.
+2019-05-02 16:38:12.164 +02:00 [INF] PAS DE ROLES MANQUANTS
+2019-05-02 16:38:12.173 +02:00 [INF] PAS DE SUPPORT_COMPOSANT MANQUANT
+2019-05-02 16:38:12.185 +02:00 [INF] PAS DE FOURNISSEUR_CONSOMME MANQUANT.
+2019-05-02 16:38:12.196 +02:00 [INF] PAS D'INTERMEDIAIRE_CONSOMME MANQUANT.
+2019-05-02 16:38:12.205 +02:00 [INF] PAS DE SUPPORT_INFO_GEN_CONSOMME MANQUANT.
+2019-05-02 16:38:12.216 +02:00 [INF] PAS DE PRODUIT MANQUANT.
+2019-05-02 16:38:12.234 +02:00 [INF] FIN LOG 18815c48-1965-4a3b-bff0-713aa71ace11

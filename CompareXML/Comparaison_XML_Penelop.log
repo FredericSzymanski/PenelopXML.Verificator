@@ -1,0 +1,141 @@
+2019-05-02 10:16:22.543 +02:00 [INF] DEBUT LOG 4171d582-87d5-49ca-8a8f-ffa260544ae7
+2019-05-02 10:16:22.564 +02:00 [INF] VALEUR DU OLD : XML\reference_20190416_Penelop_C2I.xml
+2019-05-02 10:16:22.565 +02:00 [INF] VALEUR DU NEW : XML\20190416_C2I_Penelop.xml
+2019-05-02 10:16:22.567 +02:00 [INF] Nombre de personnes dans le OLD : 311
+2019-05-02 10:16:22.567 +02:00 [INF] Nombre de personnes dans le NEW : 303
+2019-05-02 10:16:22.575 +02:00 [INF] Nombre de contrats dans le OLD : 301
+2019-05-02 10:16:22.575 +02:00 [INF] Nombre de contrats dans le NEW : 301
+2019-05-02 10:16:22.576 +02:00 [INF] Nombre de fournisseurs consommes dans le OLD : 120
+2019-05-02 10:16:22.576 +02:00 [INF] Nombre de fournisseurs consommes dans le NEW : 119
+2019-05-02 10:16:22.577 +02:00 [INF] Nombre d'intermediaires consommes dans le OLD : 7
+2019-05-02 10:16:22.577 +02:00 [INF] Nombre d'intermediaires consommes dans le NEW : 7
+2019-05-02 10:16:22.579 +02:00 [INF] Nombre de support info gen consomme dans le OLD : 389
+2019-05-02 10:16:22.579 +02:00 [INF] Nombre de support info gen consomme dans le NEW : 388
+2019-05-02 10:16:22.580 +02:00 [INF] Nombre de produits dans le OLD : 23
+2019-05-02 10:16:22.580 +02:00 [INF] Nombre de produits dans le NEW : 22
+2019-05-02 10:16:22.586 +02:00 [WRN] Le nombre de supports composants pour le contrat a0G2000000pHXGyEAO diffère entre le OLD (3) et le NEW (2)
+2019-05-02 10:16:22.588 +02:00 [INF] LISTE DES PERSONNES MANQUANTES :
+2019-05-02 10:16:22.588 +02:00 [WRN] ID : 0010O00002AR27JQAT	Nom : BOUDRY	Prénom : Christine	Civilité : MME
+2019-05-02 10:16:22.588 +02:00 [INF] La personne ID = 0010O00002AR27JQAT possède 0 référence(s) en rôle
+2019-05-02 10:16:22.588 +02:00 [WRN] ID : 0010O00002JqdeIQAR	Nom : GROSJEAN	Prénom : Raymond	Civilité : MON
+2019-05-02 10:16:22.589 +02:00 [INF] La personne ID = 0010O00002JqdeIQAR possède 0 référence(s) en rôle
+2019-05-02 10:16:22.589 +02:00 [WRN] ID : 0010O00002NoNaNQAV	Nom : LEURENT	Prénom : Frédéric	Civilité : MON
+2019-05-02 10:16:22.589 +02:00 [INF] La personne ID = 0010O00002NoNaNQAV possède 0 référence(s) en rôle
+2019-05-02 10:16:22.589 +02:00 [WRN] ID : 0010O00002NoNbzQAF	Nom : GICQUEL	Prénom : Jean	Civilité : MON
+2019-05-02 10:16:22.589 +02:00 [INF] La personne ID = 0010O00002NoNbzQAF possède 0 référence(s) en rôle
+2019-05-02 10:16:22.589 +02:00 [WRN] ID : 0010O00002NoNcfQAF	Nom : CHEVALIER	Prénom : Jean Yves	Civilité : MON
+2019-05-02 10:16:22.589 +02:00 [INF] La personne ID = 0010O00002NoNcfQAF possède 0 référence(s) en rôle
+2019-05-02 10:16:22.589 +02:00 [WRN] ID : 0010O00002NoNcwQAF	Nom : CHEVALIER	Prénom : Josette	Civilité : MME
+2019-05-02 10:16:22.589 +02:00 [INF] La personne ID = 0010O00002NoNcwQAF possède 0 référence(s) en rôle
+2019-05-02 10:16:22.589 +02:00 [WRN] ID : 0010O00002NoNdVQAV	Nom : BLANCHET	Prénom : Marcelle	Civilité : MME
+2019-05-02 10:16:22.589 +02:00 [INF] La personne ID = 0010O00002NoNdVQAV possède 0 référence(s) en rôle
+2019-05-02 10:16:22.589 +02:00 [WRN] ID : 0010O00002NoNWPQA3	Nom : PITTET	Prénom : Alain	Civilité : MON
+2019-05-02 10:16:22.589 +02:00 [INF] La personne ID = 0010O00002NoNWPQA3 possède 0 référence(s) en rôle
+2019-05-02 10:16:22.589 +02:00 [INF] PAS DE CONTRAT MANQUANT.
+2019-05-02 10:16:22.589 +02:00 [INF] PAS DE ROLES MANQUANTS
+2019-05-02 10:16:22.589 +02:00 [INF] LISTE DES SUPPORT_COMPOSANTS MANQUANTS :
+2019-05-02 10:16:22.589 +02:00 [WRN] [Contrat_ID : a0G2000000pHXGyEAO] -- ID : 92032177 - ID_Info_Generale : 875
+2019-05-02 10:16:22.590 +02:00 [INF] LISTE DES FOURNISSEUR_CONSOMMES MANQUANTS :
+2019-05-02 10:16:22.590 +02:00 [WRN] ID : 000488 - Libelle court : PRUDENTIAL
+2019-05-02 10:16:22.590 +02:00 [INF] PAS D'INTERMEDIAIRE_CONSOMME MANQUANT.
+2019-05-02 10:16:22.590 +02:00 [INF] LISTE DES SUPPORT_INFO_GEN_CONSOMMES MANQUANTS :
+2019-05-02 10:16:22.590 +02:00 [WRN] ID : 875 - designation : FONDS GENERAL AEP QUOTIDIEN - ref ID fournisseur : 115
+2019-05-02 10:16:22.590 +02:00 [INF] LISTE DES PRODUITS MANQUANTS :
+2019-05-02 10:16:22.590 +02:00 [WRN] ID : 195 - designation : PRUDENTIAL EUROPE VIE
+2019-05-02 10:16:22.590 +02:00 [INF] Le produit ID = 195 possède 0 référence(s) en contrat
+2019-05-02 10:16:22.591 +02:00 [WRN] [Fichier NEW] Pas d'origine_du_code_courant pour l'info_gen :  ID : 6776 - designation : M&G (LUX) OPTIMAL INCOME FD EUR A ACC - ref ID fournisseur : 197
+2019-05-02 10:16:22.591 +02:00 [INF] FIN LOG 4171d582-87d5-49ca-8a8f-ffa260544ae7
+2019-05-02 10:25:42.875 +02:00 [INF] DEBUT LOG 865483ee-a2af-4769-9bd7-bc97f854d1fb
+2019-05-02 10:25:42.899 +02:00 [INF] VALEUR DU OLD : XML\reference_20190416_Penelop_C2I.xml
+2019-05-02 10:25:42.902 +02:00 [INF] VALEUR DU NEW : XML\20190416_C2I_Penelop.xml
+2019-05-02 10:25:42.905 +02:00 [INF] Nombre de personnes dans le OLD : 311
+2019-05-02 10:25:42.905 +02:00 [INF] Nombre de personnes dans le NEW : 303
+2019-05-02 10:25:42.917 +02:00 [INF] Nombre de contrats dans le OLD : 301
+2019-05-02 10:25:42.918 +02:00 [INF] Nombre de contrats dans le NEW : 301
+2019-05-02 10:25:42.922 +02:00 [INF] Nombre de fournisseurs consommes dans le OLD : 120
+2019-05-02 10:25:42.923 +02:00 [INF] Nombre de fournisseurs consommes dans le NEW : 119
+2019-05-02 10:25:42.927 +02:00 [INF] Nombre d'intermediaires consommes dans le OLD : 7
+2019-05-02 10:25:42.928 +02:00 [INF] Nombre d'intermediaires consommes dans le NEW : 7
+2019-05-02 10:25:42.931 +02:00 [INF] Nombre de support info gen consomme dans le OLD : 389
+2019-05-02 10:25:42.932 +02:00 [INF] Nombre de support info gen consomme dans le NEW : 388
+2019-05-02 10:25:42.936 +02:00 [INF] Nombre de produits dans le OLD : 23
+2019-05-02 10:25:42.937 +02:00 [INF] Nombre de produits dans le NEW : 22
+2019-05-02 10:25:42.944 +02:00 [WRN] Le nombre de supports composants pour le contrat a0G2000000pHXGyEAO diffère entre le OLD (3) et le NEW (2)
+2019-05-02 10:25:42.948 +02:00 [INF] LISTE DES PERSONNES MANQUANTES :
+2019-05-02 10:25:42.949 +02:00 [WRN] ID : 0010O00002AR27JQAT	Nom : BOUDRY	Prénom : Christine	Civilité : MME
+2019-05-02 10:25:42.952 +02:00 [INF] La personne ID = 0010O00002AR27JQAT possède 0 référence(s) en rôle
+2019-05-02 10:25:42.962 +02:00 [WRN] ID : 0010O00002JqdeIQAR	Nom : GROSJEAN	Prénom : Raymond	Civilité : MON
+2019-05-02 10:25:42.963 +02:00 [INF] La personne ID = 0010O00002JqdeIQAR possède 0 référence(s) en rôle
+2019-05-02 10:25:42.965 +02:00 [WRN] ID : 0010O00002NoNaNQAV	Nom : LEURENT	Prénom : Frédéric	Civilité : MON
+2019-05-02 10:25:42.966 +02:00 [INF] La personne ID = 0010O00002NoNaNQAV possède 0 référence(s) en rôle
+2019-05-02 10:25:42.967 +02:00 [WRN] ID : 0010O00002NoNbzQAF	Nom : GICQUEL	Prénom : Jean	Civilité : MON
+2019-05-02 10:25:42.968 +02:00 [INF] La personne ID = 0010O00002NoNbzQAF possède 0 référence(s) en rôle
+2019-05-02 10:25:42.969 +02:00 [WRN] ID : 0010O00002NoNcfQAF	Nom : CHEVALIER	Prénom : Jean Yves	Civilité : MON
+2019-05-02 10:25:42.970 +02:00 [INF] La personne ID = 0010O00002NoNcfQAF possède 0 référence(s) en rôle
+2019-05-02 10:25:42.972 +02:00 [WRN] ID : 0010O00002NoNcwQAF	Nom : CHEVALIER	Prénom : Josette	Civilité : MME
+2019-05-02 10:25:42.973 +02:00 [INF] La personne ID = 0010O00002NoNcwQAF possède 0 référence(s) en rôle
+2019-05-02 10:25:42.975 +02:00 [WRN] ID : 0010O00002NoNdVQAV	Nom : BLANCHET	Prénom : Marcelle	Civilité : MME
+2019-05-02 10:25:42.976 +02:00 [INF] La personne ID = 0010O00002NoNdVQAV possède 0 référence(s) en rôle
+2019-05-02 10:25:42.977 +02:00 [WRN] ID : 0010O00002NoNWPQA3	Nom : PITTET	Prénom : Alain	Civilité : MON
+2019-05-02 10:25:42.978 +02:00 [INF] La personne ID = 0010O00002NoNWPQA3 possède 0 référence(s) en rôle
+2019-05-02 10:25:42.979 +02:00 [INF] PAS DE CONTRAT MANQUANT.
+2019-05-02 10:25:42.982 +02:00 [INF] PAS DE ROLES MANQUANTS
+2019-05-02 10:25:42.985 +02:00 [INF] LISTE DES SUPPORT_COMPOSANTS MANQUANTS :
+2019-05-02 10:25:42.986 +02:00 [WRN] [Contrat_ID : a0G2000000pHXGyEAO] -- ID : 92032177 - ID_Info_Generale : 875
+2019-05-02 10:25:42.987 +02:00 [INF] LISTE DES FOURNISSEUR_CONSOMMES MANQUANTS :
+2019-05-02 10:25:42.988 +02:00 [WRN] ID : 000488 - Libelle court : PRUDENTIAL
+2019-05-02 10:25:42.989 +02:00 [INF] PAS D'INTERMEDIAIRE_CONSOMME MANQUANT.
+2019-05-02 10:25:42.991 +02:00 [INF] LISTE DES SUPPORT_INFO_GEN_CONSOMMES MANQUANTS :
+2019-05-02 10:25:42.995 +02:00 [WRN] ID : 875 - designation : FONDS GENERAL AEP QUOTIDIEN - ref ID fournisseur : 115
+2019-05-02 10:25:42.996 +02:00 [INF] LISTE DES PRODUITS MANQUANTS :
+2019-05-02 10:25:42.998 +02:00 [WRN] ID : 195 - designation : PRUDENTIAL EUROPE VIE
+2019-05-02 10:25:43.001 +02:00 [INF] Le produit ID = 195 possède 0 référence(s) en contrat
+2019-05-02 10:25:43.003 +02:00 [WRN] [Fichier NEW] Pas d'origine_du_code_courant pour l'info_gen :  ID : 6776 - designation : M&G (LUX) OPTIMAL INCOME FD EUR A ACC - ref ID fournisseur : 197
+2019-05-02 10:25:43.005 +02:00 [INF] FIN LOG 865483ee-a2af-4769-9bd7-bc97f854d1fb
+2019-05-02 16:28:26.342 +02:00 [INF] DEBUT LOG 466b7958-6274-4c5c-b07b-002efd63ffe8
+2019-05-02 16:28:26.370 +02:00 [INF] VALEUR DU OLD : XML\reference_20190416_Penelop_C2I.xml
+2019-05-02 16:28:26.370 +02:00 [INF] VALEUR DU NEW : XML\20190416_C2I_Penelop.xml
+2019-05-02 16:28:26.373 +02:00 [INF] Nombre de personnes dans le OLD : 311
+2019-05-02 16:28:26.373 +02:00 [INF] Nombre de personnes dans le NEW : 303
+2019-05-02 16:28:26.379 +02:00 [INF] Nombre de contrats dans le OLD : 301
+2019-05-02 16:28:26.381 +02:00 [INF] Nombre de contrats dans le NEW : 301
+2019-05-02 16:28:26.382 +02:00 [INF] Nombre de fournisseurs consommes dans le OLD : 120
+2019-05-02 16:28:26.383 +02:00 [INF] Nombre de fournisseurs consommes dans le NEW : 119
+2019-05-02 16:28:26.386 +02:00 [INF] Nombre d'intermediaires consommes dans le OLD : 7
+2019-05-02 16:28:26.387 +02:00 [INF] Nombre d'intermediaires consommes dans le NEW : 7
+2019-05-02 16:28:26.392 +02:00 [INF] Nombre de support info gen consomme dans le OLD : 389
+2019-05-02 16:28:26.392 +02:00 [INF] Nombre de support info gen consomme dans le NEW : 388
+2019-05-02 16:28:26.406 +02:00 [INF] Nombre de produits dans le OLD : 23
+2019-05-02 16:28:26.418 +02:00 [INF] Nombre de produits dans le NEW : 22
+2019-05-02 16:28:26.437 +02:00 [WRN] Le nombre de supports composants pour le contrat a0G2000000pHXGyEAO diffère entre le OLD (3) et le NEW (2)
+2019-05-02 16:28:26.442 +02:00 [INF] LISTE DES PERSONNES MANQUANTES :
+2019-05-02 16:28:26.443 +02:00 [WRN] ID : 0010O00002AR27JQAT	Nom : BOUDRY	Prénom : Christine	Civilité : MME
+2019-05-02 16:28:26.452 +02:00 [INF] La personne ID = 0010O00002AR27JQAT possède 0 référence(s) en rôle
+2019-05-02 16:28:26.453 +02:00 [WRN] ID : 0010O00002JqdeIQAR	Nom : GROSJEAN	Prénom : Raymond	Civilité : MON
+2019-05-02 16:28:26.463 +02:00 [INF] La personne ID = 0010O00002JqdeIQAR possède 0 référence(s) en rôle
+2019-05-02 16:28:26.463 +02:00 [WRN] ID : 0010O00002NoNaNQAV	Nom : LEURENT	Prénom : Frédéric	Civilité : MON
+2019-05-02 16:28:26.472 +02:00 [INF] La personne ID = 0010O00002NoNaNQAV possède 0 référence(s) en rôle
+2019-05-02 16:28:26.473 +02:00 [WRN] ID : 0010O00002NoNbzQAF	Nom : GICQUEL	Prénom : Jean	Civilité : MON
+2019-05-02 16:28:26.482 +02:00 [INF] La personne ID = 0010O00002NoNbzQAF possède 0 référence(s) en rôle
+2019-05-02 16:28:26.483 +02:00 [WRN] ID : 0010O00002NoNcfQAF	Nom : CHEVALIER	Prénom : Jean Yves	Civilité : MON
+2019-05-02 16:28:26.492 +02:00 [INF] La personne ID = 0010O00002NoNcfQAF possède 0 référence(s) en rôle
+2019-05-02 16:28:26.503 +02:00 [WRN] ID : 0010O00002NoNcwQAF	Nom : CHEVALIER	Prénom : Josette	Civilité : MME
+2019-05-02 16:28:26.505 +02:00 [INF] La personne ID = 0010O00002NoNcwQAF possède 0 référence(s) en rôle
+2019-05-02 16:28:26.515 +02:00 [WRN] ID : 0010O00002NoNdVQAV	Nom : BLANCHET	Prénom : Marcelle	Civilité : MME
+2019-05-02 16:28:26.516 +02:00 [INF] La personne ID = 0010O00002NoNdVQAV possède 0 référence(s) en rôle
+2019-05-02 16:28:26.524 +02:00 [WRN] ID : 0010O00002NoNWPQA3	Nom : PITTET	Prénom : Alain	Civilité : MON
+2019-05-02 16:28:26.525 +02:00 [INF] La personne ID = 0010O00002NoNWPQA3 possède 0 référence(s) en rôle
+2019-05-02 16:28:26.536 +02:00 [INF] PAS DE CONTRAT MANQUANT.
+2019-05-02 16:28:26.549 +02:00 [INF] PAS DE ROLES MANQUANTS
+2019-05-02 16:28:26.568 +02:00 [INF] LISTE DES SUPPORT_COMPOSANTS MANQUANTS :
+2019-05-02 16:28:26.569 +02:00 [WRN] [Contrat_ID : a0G2000000pHXGyEAO] -- ID : 92032177 - ID_Info_Generale : 875
+2019-05-02 16:28:26.571 +02:00 [INF] LISTE DES FOURNISSEUR_CONSOMMES MANQUANTS :
+2019-05-02 16:28:26.583 +02:00 [WRN] ID : 000488 - Libelle court : PRUDENTIAL
+2019-05-02 16:28:26.592 +02:00 [INF] PAS D'INTERMEDIAIRE_CONSOMME MANQUANT.
+2019-05-02 16:28:26.605 +02:00 [INF] LISTE DES SUPPORT_INFO_GEN_CONSOMMES MANQUANTS :
+2019-05-02 16:28:26.616 +02:00 [WRN] ID : 875 - designation : FONDS GENERAL AEP QUOTIDIEN - ref ID fournisseur : 115
+2019-05-02 16:28:26.626 +02:00 [INF] LISTE DES PRODUITS MANQUANTS :
+2019-05-02 16:28:26.636 +02:00 [WRN] ID : 195 - designation : PRUDENTIAL EUROPE VIE
+2019-05-02 16:28:26.637 +02:00 [INF] Le produit ID = 195 possède 0 référence(s) en contrat
+2019-05-02 16:28:26.648 +02:00 [WRN] [Fichier NEW] Pas d'origine_du_code_courant pour l'info_gen :  ID : 6776 - designation : M&G (LUX) OPTIMAL INCOME FD EUR A ACC - ref ID fournisseur : 197
+2019-05-02 16:28:26.657 +02:00 [INF] FIN LOG 466b7958-6274-4c5c-b07b-002efd63ffe8

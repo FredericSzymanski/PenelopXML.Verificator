@@ -1,0 +1,14 @@
+C:\Users\fszymanski\source\repos\CompareXML\CompareXML\bin\Release\netcoreapp2.2\CompareXML.deps.json
+C:\Users\fszymanski\source\repos\CompareXML\CompareXML\bin\Release\netcoreapp2.2\CompareXML.runtimeconfig.json
+C:\Users\fszymanski\source\repos\CompareXML\CompareXML\bin\Release\netcoreapp2.2\CompareXML.runtimeconfig.dev.json
+C:\Users\fszymanski\source\repos\CompareXML\CompareXML\bin\Release\netcoreapp2.2\CompareXML.dll
+C:\Users\fszymanski\source\repos\CompareXML\CompareXML\bin\Release\netcoreapp2.2\CompareXML.pdb
+C:\Users\fszymanski\source\repos\CompareXML\CompareXML\obj\Release\netcoreapp2.2\CompareXML.csproj.CoreCompileInputs.cache
+C:\Users\fszymanski\source\repos\CompareXML\CompareXML\obj\Release\netcoreapp2.2\CompareXML.AssemblyInfoInputs.cache
+C:\Users\fszymanski\source\repos\CompareXML\CompareXML\obj\Release\netcoreapp2.2\CompareXML.AssemblyInfo.cs
+C:\Users\fszymanski\source\repos\CompareXML\CompareXML\obj\Release\netcoreapp2.2\CompareXML.dll
+C:\Users\fszymanski\source\repos\CompareXML\CompareXML\obj\Release\netcoreapp2.2\CompareXML.pdb
+C:\Users\fszymanski\source\repos\CompareXML\CompareXML\bin\Release\netcoreapp2.2\XML\20190416_C2I_Penelop.xml
+C:\Users\fszymanski\source\repos\CompareXML\CompareXML\bin\Release\netcoreapp2.2\XML\reference_20190416_Penelop_C2I.xml
+C:\Users\fszymanski\source\repos\CompareXML\CompareXML\bin\Release\netcoreapp2.2\CompareXML.xml
+C:\Users\fszymanski\source\repos\CompareXML\CompareXML\obj\Release\netcoreapp2.2\CompareXML.xml

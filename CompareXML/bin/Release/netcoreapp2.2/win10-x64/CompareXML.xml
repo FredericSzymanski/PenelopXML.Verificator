@@ -1,0 +1,219 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CompareXML</name>
+    </assembly>
+    <members>
+        <member name="M:CompareXML.Program.Main(System.String,System.String)">
+            <param name="oldfile">Path du fichier de référence (OLD)</param>
+            <param name="newfile">Path du fichier Penelop V3</param>
+        </member>
+        <member name="M:CompareXML.Program.SetCommandMLineOptions(System.String[])">
+            <summary>
+            Mise en place de la ligne de commande
+            </summary>
+            <param name="args">Arguments du Main</param>
+            <returns></returns>
+        </member>
+        <member name="M:CompareXML.Program.AnalyseInfoGenNEW(System.Collections.Generic.List{CompareXML.SupportInfoGenConsomme})">
+            <summary>
+            Retourne la lsite des info_gens du NEW n'ayant pas d'origine code courant
+            </summary>
+            <param name="infos">Liste des info_gens</param>
+            <returns>Liste des info_gens sans origine de code courant</returns>
+        </member>
+        <member name="M:CompareXML.Program.NbReferencesProduitEnContrat(System.String)">
+            <summary>
+            Conmpte le nombre de références d'un produit en contrat
+            </summary>
+            <param name="produitId">Identifiant du produit</param>
+            <returns>Nombre de références</returns>
+        </member>
+        <member name="M:CompareXML.Program.NbReferencesIntermediaireEnContrat(System.String)">
+            <summary>
+            Compte le nombre de références d'un intermediaire en contrat
+            </summary>
+            <param name="intermediaireId">Identifiant de l'intermediaire</param>
+            <returns>Nombre de références</returns>
+        </member>
+        <member name="M:CompareXML.Program.ProduitsManquants(System.Collections.Generic.List{CompareXML.Produit},System.Collections.Generic.List{CompareXML.Produit})">
+            <summary>
+            Retourne une liste de produits manquants
+            </summary>
+            <param name="oldProduits">Liste de référence</param>
+            <param name="newProduits">Liste nouvelle</param>
+            <returns>Liste de produits manquants</returns>
+        </member>
+        <member name="M:CompareXML.Program.RetrieveProduits(System.Collections.Generic.List{CompareXML.Produit},System.Collections.Generic.List{CompareXML.Produit})">
+            <summary>
+            Récupération des produits
+            </summary>
+            <param name="oldProduits">Liste vierge qui contiendra les produits du fichier OLD</param>
+            <param name="newProduits">Liste vierge qui contiendra les produits du fichier NEW</param>
+        </member>
+        <member name="M:CompareXML.Program.FillProduits(System.Collections.Generic.List{CompareXML.Produit},System.Collections.Generic.IEnumerable{System.Xml.Linq.XElement})">
+            <summary>
+            Récupération des produits
+            </summary>
+            <param name="Produits">Liste vierge de produits à remplir</param>
+            <param name="xProduits">Liste des produits XML</param>
+        </member>
+        <member name="M:CompareXML.Program.NbReferencesPersonneEnRole(System.String)">
+            <summary>
+            Compte le nombre de référence d'une personne donnée en rôle de contrat
+            </summary>
+            <param name="personneId">Identifiabnt de la poersonne</param>
+            <returns>Nombre de références</returns>
+        </member>
+        <member name="M:CompareXML.Program.InfoGenManquantes(System.Collections.Generic.List{CompareXML.SupportInfoGenConsomme},System.Collections.Generic.List{CompareXML.SupportInfoGenConsomme})">
+            <summary>
+            Retiurne une liste d'informations générales manquantes
+            </summary>
+            <param name="oldInfos">Liste de référence</param>
+            <param name="newInfos">Liste nouvelle</param>
+            <returns>Liste d'informations générales manquantes</returns>
+        </member>
+        <member name="M:CompareXML.Program.RetrieveInfoGen(System.Collections.Generic.List{CompareXML.SupportInfoGenConsomme},System.Collections.Generic.List{CompareXML.SupportInfoGenConsomme})">
+            <summary>
+            Récupération des informations générales
+            </summary>
+            <param name="oldInfos">Liste vierge qui contiendra les info_gen du fichier OLD</param>
+            <param name="newInfos">Liste vierge qui contiendra les info_gen du fichier NEW</param>
+        </member>
+        <member name="M:CompareXML.Program.FillInfoGens(System.Collections.Generic.List{CompareXML.SupportInfoGenConsomme},System.Collections.Generic.IEnumerable{System.Xml.Linq.XElement})">
+            <summary>
+            Récupération des informations générales
+            </summary>
+            <param name="InfoGens">Liste vierge d'informations à remplir</param>
+            <param name="xInfoGens">Liste d'informations XML</param>
+        </member>
+        <member name="M:CompareXML.Program.IntermediairesManquants(System.Collections.Generic.List{CompareXML.IntermediaireConsomme},System.Collections.Generic.List{CompareXML.IntermediaireConsomme})">
+            <summary>
+            Retourne une liste des intermediaires manquants
+            </summary>
+            <param name="oldIntermediaires">Liste de référence</param>
+            <param name="newIntermediaires">Liste nouvelles</param>
+            <returns>Liste des intermediaires manquants</returns>
+        </member>
+        <member name="M:CompareXML.Program.RetrieveIntermediaire(System.Collections.Generic.List{CompareXML.IntermediaireConsomme},System.Collections.Generic.List{CompareXML.IntermediaireConsomme})">
+            <summary>
+            Récupération des intermediaires
+            </summary>
+            <param name="intermediairesOld">Liste vierge qui contiendra les intermediaires du fichier OLD</param>
+            <param name="intermediairesNew">Liste vierge qui contiendra les intermediaires du fichier NEW</param>
+        </member>
+        <member name="M:CompareXML.Program.FillIntermediaires(System.Collections.Generic.List{CompareXML.IntermediaireConsomme},System.Collections.Generic.IEnumerable{System.Xml.Linq.XElement})">
+            <summary>
+            Récupération des intermediaires
+            </summary>
+            <param name="Intermediaires">Liste vierge d'intermediaires à remplir</param>
+            <param name="xIntermediaires">Liste d'intermediaires XML</param>
+        </member>
+        <member name="M:CompareXML.Program.FournisseursManquants(System.Collections.Generic.List{CompareXML.FournisseurConsomme},System.Collections.Generic.List{CompareXML.FournisseurConsomme})">
+            <summary>
+            Retourne une liste de fournisseurs manquants
+            </summary>
+            <param name="oldFournisseurs">Liste de référence</param>
+            <param name="newFournisseurs">Liste nouvelle</param>
+            <returns>Liste de fournisseurs manquants</returns>
+        </member>
+        <member name="M:CompareXML.Program.RetrieveFournisseurs(System.Collections.Generic.List{CompareXML.FournisseurConsomme},System.Collections.Generic.List{CompareXML.FournisseurConsomme})">
+            <summary>
+            Récupération des fournisseurs
+            </summary>
+            <param name="fournisseursOld">Liste vierge qui contiendra les frournisseurs du fichier OLD</param>
+            <param name="fournisseursNew">Liste vierge qui contiendra les frournisseurs du fichier NEW</param>
+        </member>
+        <member name="M:CompareXML.Program.FillFournisseurs(System.Collections.Generic.List{CompareXML.FournisseurConsomme},System.Collections.Generic.IEnumerable{System.Xml.Linq.XElement})">
+            <summary>
+            Récupération des fournisseurs
+            </summary>
+            <param name="Fournisseurs">Liste vierge de fournisseurs à remplir</param>
+            <param name="xFournisseurs">Lsite de fournisseurs XML</param>
+        </member>
+        <member name="M:CompareXML.Program.AnalyseSupportComposants(System.Collections.Generic.List{CompareXML.SupportComposant},System.Collections.Generic.List{CompareXML.SupportComposant},System.String)">
+            <summary>
+            Retourne une liste de support_composants manquants pour un contrat donné
+            </summary>
+            <param name="oldSupportComposants">Liste de référence</param>
+            <param name="newSupportComposants">Liste nouvelle</param>
+            <param name="idContrat">Identifiant du contrat</param>
+            <returns>Liste des support_composants manquants</returns>
+        </member>
+        <member name="M:CompareXML.Program.AnalyseRoles(System.Collections.Generic.List{CompareXML.Role},System.Collections.Generic.List{CompareXML.Role},System.String)">
+            <summary>
+            Retourne une lsite de rôles manquants pour un contrat donné
+            </summary>
+            <param name="oldRoles">Liste de référence</param>
+            <param name="newRoles">Liste nouvelle</param>
+            <param name="IdContrat">Identifiant du contrat</param>
+            <returns>Liste des rôles manquants</returns>
+        </member>
+        <member name="M:CompareXML.Program.Analyse(System.Collections.Generic.List{CompareXML.Contrat},System.Collections.Generic.List{CompareXML.Contrat})">
+            <summary>
+            Analyse les rôles et support_composants de contrats
+            </summary>
+            <param name="oldContrats">Liste de référence</param>
+            <param name="newContrats">Liste nouvelle</param>
+            <returns>Tuple des rôles manquants et des suoport_composants manquants</returns>
+        </member>
+        <member name="M:CompareXML.Program.ContratsManquants(System.Collections.Generic.List{CompareXML.Contrat},System.Collections.Generic.List{CompareXML.Contrat})">
+            <summary>
+            Retourne une liste des contrats manquants
+            </summary>
+            <param name="oldContrats">Liste de référence</param>
+            <param name="newContrats">Liste nouvelle</param>
+            <returns>Liste des contrats manquants</returns>
+        </member>
+        <member name="M:CompareXML.Program.PersonnesManquantes(System.Collections.Generic.List{CompareXML.Personne},System.Collections.Generic.List{CompareXML.Personne})">
+            <summary>
+            Retourne une liste des personnes manquantes
+            </summary>
+            <param name="oldPersonnes">Liste des référence</param>
+            <param name="newPersonnes">Liste nouvelle</param>
+            <returns>Liste des personnes manquantes</returns>
+        </member>
+        <member name="M:CompareXML.Program.RetrieveSupporComposants(System.Xml.Linq.XElement)">
+            <summary>
+            Récupération des support_composants d'un contrat
+            </summary>
+            <param name="xContrat">Elemenent XML représentant un support_composant</param>
+            <returns>Liste des support_composants d'un contrat</returns>
+        </member>
+        <member name="M:CompareXML.Program.RetrieveRoles(System.Xml.Linq.XElement)">
+            <summary>
+            Récupération des rôles d'un contrat
+            </summary>
+            <param name="xContrat">Element XML représentant un contrat</param>
+            <returns>Liste des rôles d'un contrat</returns>
+        </member>
+        <member name="M:CompareXML.Program.RetrieveContracts(System.Collections.Generic.List{CompareXML.Contrat},System.Collections.Generic.List{CompareXML.Contrat})">
+            <summary>
+            Récupération des contrats
+            </summary>
+            <param name="contratsOld">Liste vierge qui contiendra les contrats du fichier OLD</param>
+            <param name="contratsNew">Liste vierge qui contiendra les contrats du fichier NEW</param>
+        </member>
+        <member name="M:CompareXML.Program.FillContracts(System.Collections.Generic.List{CompareXML.Contrat},System.Collections.Generic.IEnumerable{System.Xml.Linq.XElement})">
+            <summary>
+            Récupération des contrats
+            </summary>
+            <param name="Contrats">Liste vierge de contrats à remplir</param>
+            <param name="xContrats">Liste de contrats XML</param>
+        </member>
+        <member name="M:CompareXML.Program.RetrievePersonnes(System.Collections.Generic.List{CompareXML.Personne},System.Collections.Generic.List{CompareXML.Personne})">
+            <summary>
+            Récupération des personnes
+            </summary>
+            <param name="personnesOld">Liste vierge qui contiendra les personnes du fichier OLD</param>
+            <param name="personnesNew">Liste vierge qui contiendra les personnes du fichier NEW</param>
+        </member>
+        <member name="M:CompareXML.Program.FillPersonnes(System.Collections.Generic.List{CompareXML.Personne},System.Collections.Generic.IEnumerable{System.Xml.Linq.XElement})">
+            <summary>
+            Récupération des personnes
+            </summary>
+            <param name="Personnes">Liste vierge de personnes à remplir</param>
+            <param name="xPersonnes">Liste de personnes XML</param>
+        </member>
+    </members>
+</doc>
